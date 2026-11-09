@@ -1,0 +1,182 @@
+[
+  {
+    "team_id": "dnIrsS0A",
+    "name": "AS Nancy",
+    "slug": "as-nancy",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789660+00:00"
+  },
+  {
+    "team_id": "YL2QybFe",
+    "name": "AS Saint-Étienne",
+    "slug": "as-saint-etienne",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789631+00:00"
+  },
+  {
+    "team_id": "IRuMRua1",
+    "name": "Clermont Foot",
+    "slug": "clermont-foot",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.790022+00:00"
+  },
+  {
+    "team_id": "dIvQQaE7",
+    "name": "Dijon FCO",
+    "slug": "dijon-fco",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789798+00:00"
+  },
+  {
+    "team_id": "QDfKl36E",
+    "name": "EA Guingamp",
+    "slug": "ea-guingamp",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789924+00:00"
+  },
+  {
+    "team_id": "25dB6Eto",
+    "name": "FC Annecy",
+    "slug": "annecy",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789873+00:00"
+  },
+  {
+    "team_id": "4v0yqlWc",
+    "name": "FC Metz",
+    "slug": "fc-metz",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789824+00:00"
+  },
+  {
+    "team_id": "veuetnGG",
+    "name": "FC Nantes",
+    "slug": "fc-nantes",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789998+00:00"
+  },
+  {
+    "team_id": "6NOhR4cm",
+    "name": "FC Pau",
+    "slug": "fc-pau",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789771+00:00"
+  },
+  {
+    "team_id": "jPojkLXK",
+    "name": "FC Sochaux",
+    "slug": "fc-sochaux",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.790046+00:00"
+  },
+  {
+    "team_id": "UgPj1p1N",
+    "name": "Grenoble Foot",
+    "slug": "grenoble",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.790070+00:00"
+  },
+  {
+    "team_id": "Eyf00syR",
+    "name": "HSC Montpellier",
+    "slug": "hsc-montpellier",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789685+00:00"
+  },
+  {
+    "team_id": "2kM6ufaS",
+    "name": "Red Star",
+    "slug": "red-star",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789849+00:00"
+  },
+  {
+    "team_id": "0pOdQOCg",
+    "name": "Rodez AF",
+    "slug": "rodez",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789973+00:00"
+  },
+  {
+    "team_id": "E1wDrLsJ",
+    "name": "Stade Laval",
+    "slug": "stade-laval",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.790109+00:00"
+  },
+  {
+    "team_id": "tItR6sEf",
+    "name": "Stade Reims",
+    "slug": "stade-reims",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789711+00:00"
+  },
+  {
+    "team_id": "IL4RHuFr",
+    "name": "US Boulogne",
+    "slug": "boulogne",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789948+00:00"
+  },
+  {
+    "team_id": "tAAobNse",
+    "name": "USL Dunkerque",
+    "slug": "dunkerque",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_2",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.789897+00:00"
+  }
+]

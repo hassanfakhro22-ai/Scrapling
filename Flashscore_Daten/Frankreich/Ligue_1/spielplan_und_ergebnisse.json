@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": "OfnOWm2C",
+    "season": "2026/2027",
+    "matchday": "10. Spieltag",
+    "kickoff_raw": "08.11.2026 14:45",
+    "status": "finished",
+    "phase": "FT",
+    "minute": "90+4'",
+    "home_team_id": "IBmris38",
+    "home_team_name": "RC Lens",
+    "away_team_id": "SblU3Hee",
+    "away_team_name": "Olympique Marseille",
+    "home_score": 1,
+    "away_score": 2,
+    "ht_home_score": 0,
+    "ht_away_score": 1,
+    "referee_name": "Benoît Bastien",
+    "stadium_name": "Stade Bollaert-Delelis",
+    "stadium_city": "Lens",
+    "stadium_capacity": 38223,
+    "attendance": 38015,
+    "updated_at": "2026-11-09T12:14:55.808326+00:00"
+  }
+]

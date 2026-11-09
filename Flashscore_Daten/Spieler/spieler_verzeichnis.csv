@@ -1,0 +1,24 @@
+player_id,player_name,slug,team_id,team_name,league_key,position,shirt_number,nationality,birth_date,age,market_value,contract_until,current_status,status_reason,expected_return,season_matches,season_goals,season_assists,season_yellow_cards,season_red_cards,season_rating,updated_at
+pl_sorloth,Alexander Sørloth,s_alexander_s_rloth,jaarqpLQ,,es_laliga,ST,9,Norwegen,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_griezmann,Antoine Griezmann,s_antoine_griezmann,jaarqpLQ,,es_laliga,ST,7,Frankreich,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+zROcJEUR,Carlos Guirao,s_carlos_guirao,8WUSyF3F,Eldense,es_segunda_division,,,Spanien,,,,,fraglich,Sprunggelenksverletzung,09.11.2026,,,,,,,2026-11-09T12:14:55.812995+00:00
+2uqWVW9I,Edwar Cedeño,s_edwar_cede_o,IyRQC2vM,UD Las Palmas,es_segunda_division,,,Panama,,,,,verletzt,Verletzung am Oberschenkel,,,,,,,,2026-11-09T12:14:55.812500+00:00
+pl_pena,Iñaki Peña,s_i_aki_pe_a,SKbpVP5K,,es_laliga,TW,13,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_musiala,Jamal Musiala,s_jamal_musiala,nVp0wiqd,Bayern München,de_bundesliga,,,Deutschland,,,,,fraglich,Aufbautraining nach Muskelverletzung,20.11.2026,,,,,,,2026-11-09T12:14:55.812184+00:00
+pl_oblak,Jan Oblak,s_jan_oblak,jaarqpLQ,,es_laliga,TW,13,Slowenien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_cillessen,Jasper Cillessen,s_jasper_cillessen,IyRQC2vM,,es_segunda_division,TW,1,Niederlande,,,,,fit,,,,,,,,,2026-11-09T12:14:55.810911+00:00
+nBYFHtta,Javier Martínez,s_javier_mart_nez,8WUSyF3F,,es_segunda_division,ZM,24,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.810911+00:00
+feF1pyk2,Jorge Rastrojo,s_jorge_rastrojo,8WUSyF3F,,es_segunda_division,RA,7,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.810911+00:00
+pl_gimenez,José María Giménez,s_jos_mar_a_gim_nez,jaarqpLQ,Atlético Madrid,es_laliga,IV,2,Uruguay,,,,,gesperrt,Rote Karte (Notbremse),22.11.2026,,,,,,,2026-11-09T12:14:55.812326+00:00
+v36QVRPu,Jules Koundé,kounde-jules,SKbpVP5K,FC Barcelona,es_laliga,Abwehr,23,Frankreich,12.11.1998,27,60.0 Mio. €,30.06.2030,verletzt,Sprunggelenksverletzung,Ende November 2026,9,1,2,2,0,7.31,2026-11-09T12:14:55.811499+00:00
+pl_alvarez,Julián Álvarez,s_juli_n_lvarez,jaarqpLQ,,es_laliga,ST,19,Argentinien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_kirian,Kirian Rodríguez,s_kirian_rodr_guez,IyRQC2vM,,es_segunda_division,ZM,20,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.810911+00:00
+pl_koke,Koke,s_koke,jaarqpLQ,,es_laliga,ZM,6,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_yamal,Lamine Yamal,s_lamine_yamal,SKbpVP5K,,es_laliga,RA,19,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+COnT2Lh0,Marcus Rashford,rashford-marcus,SKbpVP5K,FC Barcelona,es_laliga,Sturm,14,England,31.10.1997,29,48.0 Mio. €,30.06.2029,fit,,,11,5,3,1,0,7.24,2026-11-09T12:14:55.811463+00:00
+pl_cubarsi,Pau Cubarsí,s_pau_cubars,SKbpVP5K,,es_laliga,IV,2,Spanien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_raphinha,Raphinha,s_raphinha,SKbpVP5K,,es_laliga,LA,11,Brasilien,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_lewandowski,Robert Lewandowski,s_robert_lewandowski,SKbpVP5K,,es_laliga,ST,9,Polen,,,,,fit,,,,,,,,,2026-11-09T12:14:55.809987+00:00
+pl_gosens,Robin Gosens,s_robin_gosens,0Ija0Ej9,Schalke 04,de_bundesliga,,,Deutschland,,,,,verletzt,Schwere Knieverletzung,Unbekannt,,,,,,,2026-11-09T12:14:55.811994+00:00
+fapXP9VS,Sandro Ramírez,s_sandro_ram_rez,IyRQC2vM,UD Las Palmas,es_segunda_division,,,Spanien,,,,,fraglich,Verletzung,09.11.2026,,,,,,,2026-11-09T12:14:55.812790+00:00
+tYi46reg,Viti Rozada,s_viti_rozada,IyRQC2vM,UD Las Palmas,es_segunda_division,,,Spanien,,,,,verletzt,Knieverletzung,,,,,,,,2026-11-09T12:14:55.812632+00:00

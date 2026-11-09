@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": "GEWsQBr9",
+    "season": "2026/2027",
+    "matchday": "13. Spieltag",
+    "kickoff_raw": "09.11.2026 14:30",
+    "status": "scheduled",
+    "phase": "NS",
+    "minute": null,
+    "home_team_id": "IyRQC2vM",
+    "home_team_name": "UD Las Palmas",
+    "away_team_id": "8WUSyF3F",
+    "away_team_name": "Eldense",
+    "home_score": null,
+    "away_score": null,
+    "ht_home_score": null,
+    "ht_away_score": null,
+    "referee_name": "E. Mallo",
+    "stadium_name": "Estadio de Gran Canaria",
+    "stadium_city": "Las Palmas",
+    "stadium_capacity": 32392,
+    "attendance": null,
+    "updated_at": "2026-11-09T12:14:55.808637+00:00"
+  }
+]

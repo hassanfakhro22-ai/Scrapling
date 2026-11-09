@@ -1,0 +1,98 @@
+[
+  {
+    "id": 8,
+    "detected_at": "2026-11-09T12:14:55.812995+00:00",
+    "league_key": "es_segunda_division",
+    "entity_type": "injury",
+    "entity_id": "8WUSyF3F:zROcJEUR",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Carlos Guirao (Eldense) – fraglich (Sprunggelenksverletzung)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"zROcJEUR\", \"player_name\": \"Carlos Guirao\", \"team_id\": \"8WUSyF3F\", \"team_name\": \"Eldense\", \"league_key\": \"es_segunda_division\", \"availability_status\": \"fraglich\", \"reason\": \"Sprunggelenksverletzung\", \"expected_return\": \"09.11.2026\", \"since_date\": \"05.11.2026\", \"nationality\": \"Spanien\", \"source_match_id\": \"GEWsQBr9\"}",
+    "transition_hash": "0301ebf7ba82627782b754d33f91470187c778e5857016ced72e1a0a01a3a9dc"
+  },
+  {
+    "id": 7,
+    "detected_at": "2026-11-09T12:14:55.812790+00:00",
+    "league_key": "es_segunda_division",
+    "entity_type": "injury",
+    "entity_id": "IyRQC2vM:fapXP9VS",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Sandro Ramírez (UD Las Palmas) – fraglich (Verletzung)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"fapXP9VS\", \"player_name\": \"Sandro Ramírez\", \"team_id\": \"IyRQC2vM\", \"team_name\": \"UD Las Palmas\", \"league_key\": \"es_segunda_division\", \"availability_status\": \"fraglich\", \"reason\": \"Verletzung\", \"expected_return\": \"09.11.2026\", \"since_date\": \"06.11.2026\", \"nationality\": \"Spanien\", \"source_match_id\": \"GEWsQBr9\"}",
+    "transition_hash": "2b1415cbbc5195f6fbb3e5228e6564efb90a666aa874647ed9620da212d7a235"
+  },
+  {
+    "id": 6,
+    "detected_at": "2026-11-09T12:14:55.812632+00:00",
+    "league_key": "es_segunda_division",
+    "entity_type": "injury",
+    "entity_id": "IyRQC2vM:tYi46reg",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Viti Rozada (UD Las Palmas) – verletzt (Knieverletzung)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"tYi46reg\", \"player_name\": \"Viti Rozada\", \"team_id\": \"IyRQC2vM\", \"team_name\": \"UD Las Palmas\", \"league_key\": \"es_segunda_division\", \"availability_status\": \"verletzt\", \"reason\": \"Knieverletzung\", \"expected_return\": null, \"since_date\": \"28.10.2026\", \"nationality\": \"Spanien\", \"source_match_id\": \"GEWsQBr9\"}",
+    "transition_hash": "cd8c34699eb0b03fa6cad80904596538f133035d157d3b7caec2e479f6559e39"
+  },
+  {
+    "id": 5,
+    "detected_at": "2026-11-09T12:14:55.812500+00:00",
+    "league_key": "es_segunda_division",
+    "entity_type": "injury",
+    "entity_id": "IyRQC2vM:2uqWVW9I",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Edwar Cedeño (UD Las Palmas) – verletzt (Verletzung am Oberschenkel)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"2uqWVW9I\", \"player_name\": \"Edwar Cedeño\", \"team_id\": \"IyRQC2vM\", \"team_name\": \"UD Las Palmas\", \"league_key\": \"es_segunda_division\", \"availability_status\": \"verletzt\", \"reason\": \"Verletzung am Oberschenkel\", \"expected_return\": null, \"since_date\": \"01.11.2026\", \"nationality\": \"Panama\", \"source_match_id\": \"GEWsQBr9\"}",
+    "transition_hash": "9fb0e8792eb145522315b9a0f9b3ae624a801ef523fc95c5c8e7a258624a4607"
+  },
+  {
+    "id": 4,
+    "detected_at": "2026-11-09T12:14:55.812326+00:00",
+    "league_key": "es_laliga",
+    "entity_type": "injury",
+    "entity_id": "jaarqpLQ:pl_gimenez",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: José María Giménez (Atlético Madrid) – gesperrt (Rote Karte (Notbremse))",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"pl_gimenez\", \"player_name\": \"José María Giménez\", \"team_id\": \"jaarqpLQ\", \"team_name\": \"Atlético Madrid\", \"league_key\": \"es_laliga\", \"availability_status\": \"gesperrt\", \"reason\": \"Rote Karte (Notbremse)\", \"expected_return\": \"22.11.2026\", \"since_date\": \"08.11.2026\", \"nationality\": \"Uruguay\", \"source_match_id\": \"A9JgHzZA\"}",
+    "transition_hash": "5e623fd76a90b69fdbb054aa5b986006d219159557b196d82617e3655496a691"
+  },
+  {
+    "id": 3,
+    "detected_at": "2026-11-09T12:14:55.812184+00:00",
+    "league_key": "de_bundesliga",
+    "entity_type": "injury",
+    "entity_id": "nVp0wiqd:pl_musiala",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Jamal Musiala (Bayern München) – fraglich (Aufbautraining nach Muskelverletzung)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"pl_musiala\", \"player_name\": \"Jamal Musiala\", \"team_id\": \"nVp0wiqd\", \"team_name\": \"Bayern München\", \"league_key\": \"de_bundesliga\", \"availability_status\": \"fraglich\", \"reason\": \"Aufbautraining nach Muskelverletzung\", \"expected_return\": \"20.11.2026\", \"since_date\": \"25.10.2026\", \"nationality\": \"Deutschland\", \"source_match_id\": \"zZPQYkxo\"}",
+    "transition_hash": "6620d7556265a6b144bbc5408ffceb0ffd228dc3c68b83e6c9396d22d5cd2eba"
+  },
+  {
+    "id": 2,
+    "detected_at": "2026-11-09T12:14:55.811994+00:00",
+    "league_key": "de_bundesliga",
+    "entity_type": "injury",
+    "entity_id": "0Ija0Ej9:pl_gosens",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Robin Gosens (Schalke 04) – verletzt (Schwere Knieverletzung)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"pl_gosens\", \"player_name\": \"Robin Gosens\", \"team_id\": \"0Ija0Ej9\", \"team_name\": \"Schalke 04\", \"league_key\": \"de_bundesliga\", \"availability_status\": \"verletzt\", \"reason\": \"Schwere Knieverletzung\", \"expected_return\": \"Unbekannt\", \"since_date\": \"08.11.2026\", \"nationality\": \"Deutschland\", \"source_match_id\": \"EJeFRYUH\"}",
+    "transition_hash": "a4b5f6a424a27759cbfe38137a1044880367f753ff90a5c0a947dff815663159"
+  },
+  {
+    "id": 1,
+    "detected_at": "2026-11-09T12:14:55.811499+00:00",
+    "league_key": "es_laliga",
+    "entity_type": "injury",
+    "entity_id": "SKbpVP5K:v36QVRPu",
+    "change_type": "INJURY_NEW",
+    "summary": "Neuer Ausfall/Verletzung: Jules Koundé (FC Barcelona) – verletzt (Sprunggelenksverletzung)",
+    "old_value_json": null,
+    "new_value_json": "{\"player_id\": \"v36QVRPu\", \"player_name\": \"Jules Koundé\", \"team_id\": \"SKbpVP5K\", \"team_name\": \"FC Barcelona\", \"league_key\": \"es_laliga\", \"availability_status\": \"verletzt\", \"reason\": \"Sprunggelenksverletzung\", \"expected_return\": \"Ende November 2026\", \"since_date\": \"18.10.2026\", \"nationality\": \"Frankreich\", \"source_match_id\": \"A9JgHzZA\"}",
+    "transition_hash": "2f24fa1aadc386573c544d4fc501b01a09d7fe9cf0b298b3ebe799d2b0e96867"
+  }
+]

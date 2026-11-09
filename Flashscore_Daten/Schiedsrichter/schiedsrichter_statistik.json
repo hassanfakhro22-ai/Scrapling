@@ -1,0 +1,102 @@
+[
+  {
+    "referee_id": "ref_michael_oliver",
+    "name": "Michael Oliver",
+    "country_code": "Eng",
+    "matches_officiated": 10,
+    "yellow_cards_total": 41,
+    "red_cards_total": 2,
+    "penalties_awarded": 3,
+    "updated_at": "2026-11-09T12:14:55.813366+00:00"
+  },
+  {
+    "referee_id": "ref_andrew_madley",
+    "name": "Andrew Madley",
+    "country_code": "Eng",
+    "matches_officiated": 9,
+    "yellow_cards_total": 33,
+    "red_cards_total": 1,
+    "penalties_awarded": 2,
+    "updated_at": "2026-11-09T12:14:55.806665+00:00"
+  },
+  {
+    "referee_id": "ref_felix_zwayer",
+    "name": "Felix Zwayer",
+    "country_code": "Ger",
+    "matches_officiated": 9,
+    "yellow_cards_total": 39,
+    "red_cards_total": 1,
+    "penalties_awarded": 4,
+    "updated_at": "2026-11-09T12:14:55.806602+00:00"
+  },
+  {
+    "referee_id": "ref_sanchez_martinez",
+    "name": "José María Sánchez Martínez",
+    "country_code": "Esp",
+    "matches_officiated": 9,
+    "yellow_cards_total": 44,
+    "red_cards_total": 3,
+    "penalties_awarded": 4,
+    "updated_at": "2026-11-09T12:14:55.806757+00:00"
+  },
+  {
+    "referee_id": "ref_benoit_bastien",
+    "name": "Benoît Bastien",
+    "country_code": "Fra",
+    "matches_officiated": 8,
+    "yellow_cards_total": 31,
+    "red_cards_total": 2,
+    "penalties_awarded": 3,
+    "updated_at": "2026-11-09T12:14:55.806698+00:00"
+  },
+  {
+    "referee_id": "ref_tobias_stieler",
+    "name": "Tobias Stieler",
+    "country_code": "Ger",
+    "matches_officiated": 8,
+    "yellow_cards_total": 34,
+    "red_cards_total": 2,
+    "penalties_awarded": 3,
+    "updated_at": "2026-11-09T12:14:55.813366+00:00"
+  },
+  {
+    "referee_id": "ref_mallo_e",
+    "name": "E. Mallo",
+    "country_code": "Esp",
+    "matches_officiated": 7,
+    "yellow_cards_total": 29,
+    "red_cards_total": 1,
+    "penalties_awarded": 2,
+    "updated_at": "2026-11-09T12:14:55.806796+00:00"
+  },
+  {
+    "referee_id": "ref_beno_t_bastien",
+    "name": "Benoît Bastien",
+    "country_code": "Fra",
+    "matches_officiated": 1,
+    "yellow_cards_total": 0,
+    "red_cards_total": 0,
+    "penalties_awarded": 0,
+    "updated_at": "2026-11-09T12:14:55.813366+00:00"
+  },
+  {
+    "referee_id": "ref_e_mallo",
+    "name": "E. Mallo",
+    "country_code": "Esp",
+    "matches_officiated": 1,
+    "yellow_cards_total": 0,
+    "red_cards_total": 0,
+    "penalties_awarded": 0,
+    "updated_at": "2026-11-09T12:14:55.813366+00:00"
+  },
+  {
+    "referee_id": "ref_jos_mar_a_s_nchez_mart_nez",
+    "name": "José María Sánchez Martínez",
+    "country_code": "Esp",
+    "matches_officiated": 1,
+    "yellow_cards_total": 1,
+    "red_cards_total": 1,
+    "penalties_awarded": 1,
+    "updated_at": "2026-11-09T12:14:55.813366+00:00"
+  }
+]

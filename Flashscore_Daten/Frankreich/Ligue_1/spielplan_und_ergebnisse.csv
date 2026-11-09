@@ -1,0 +1,2 @@
+match_id,season,matchday,kickoff_raw,status,phase,minute,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,ht_home_score,ht_away_score,referee_name,stadium_name,stadium_city,stadium_capacity,attendance,updated_at
+OfnOWm2C,2026/2027,10. Spieltag,08.11.2026 14:45,finished,FT,90+4',IBmris38,RC Lens,SblU3Hee,Olympique Marseille,1,2,0,1,Benoît Bastien,Stade Bollaert-Delelis,Lens,38223,38015,2026-11-09T12:14:55.808326+00:00

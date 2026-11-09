@@ -1,0 +1,3 @@
+match_id,season,matchday,kickoff_raw,status,phase,minute,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,ht_home_score,ht_away_score,referee_name,stadium_name,stadium_city,stadium_capacity,attendance,updated_at
+zZPQYkxo,2026/2027,10. Spieltag,20.11.2026 14:30,scheduled,NS,,nVp0wiqd,Bayern München,WG9pOTse,1. FC Köln,,,,,,Allianz Arena,München,75024,,2026-11-09T12:14:55.807491+00:00
+EJeFRYUH,2026/2027,9. Spieltag,08.11.2026 13:30,finished,FT,90',hQAtP9Sl,TSG Hoffenheim,0Ija0Ej9,Schalke 04,2,0,1,0,Tobias Stieler,PreZero Arena,Sinsheim,30150,30150,2026-11-09T12:14:55.806866+00:00

@@ -1,0 +1,202 @@
+[
+  {
+    "team_id": "IP5zl0cJ",
+    "name": "Athletic Bilbao",
+    "slug": "athletic-bilbao",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793341+00:00"
+  },
+  {
+    "team_id": "jaarqpLQ",
+    "name": "Atlético Madrid",
+    "slug": "atletico-madrid",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793242+00:00"
+  },
+  {
+    "team_id": "vJbTeCGP",
+    "name": "Betis Sevilla",
+    "slug": "betis-sevilla",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793267+00:00"
+  },
+  {
+    "team_id": "ETdxjU8a",
+    "name": "CA Osasuna",
+    "slug": "ca-osasuna",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793569+00:00"
+  },
+  {
+    "team_id": "8pvUZFhf",
+    "name": "Celta Vigo",
+    "slug": "celta-vigo",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793440+00:00"
+  },
+  {
+    "team_id": "Q51ZzMS6",
+    "name": "Deportivo A Coruña",
+    "slug": "deportivo-la-coruna",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793390+00:00"
+  },
+  {
+    "team_id": "hxt57t2q",
+    "name": "Deportivo Alavés",
+    "slug": "deportivo-alaves",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793464+00:00"
+  },
+  {
+    "team_id": "QFfPdh1J",
+    "name": "Espanyol Barcelona",
+    "slug": "espanyol-barcelona",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793493+00:00"
+  },
+  {
+    "team_id": "SKbpVP5K",
+    "name": "FC Barcelona",
+    "slug": "fc-barcelona",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793186+00:00"
+  },
+  {
+    "team_id": "4jl02tPF",
+    "name": "FC Elche",
+    "slug": "fc-elche",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793618+00:00"
+  },
+  {
+    "team_id": "dboeiWOt",
+    "name": "FC Getafe",
+    "slug": "fc-getafe",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793544+00:00"
+  },
+  {
+    "team_id": "25tIqYiJ",
+    "name": "FC Málaga",
+    "slug": "fc-malaga",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793667+00:00"
+  },
+  {
+    "team_id": "h8oAv4Ts",
+    "name": "FC Sevilla",
+    "slug": "fc-sevilla",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793316+00:00"
+  },
+  {
+    "team_id": "CQeaytrD",
+    "name": "FC Valencia",
+    "slug": "fc-valencia",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793642+00:00"
+  },
+  {
+    "team_id": "lUatW5jE",
+    "name": "FC Villarreal",
+    "slug": "fc-villarreal",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793366+00:00"
+  },
+  {
+    "team_id": "nVpEwOrl",
+    "name": "Racing Santander",
+    "slug": "racing-santander",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793417+00:00"
+  },
+  {
+    "team_id": "8bcjFy6O",
+    "name": "Rayo Vallecano",
+    "slug": "rayo-vallecano",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793519+00:00"
+  },
+  {
+    "team_id": "W8mj7MDD",
+    "name": "Real Madrid",
+    "slug": "real-madrid",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793217+00:00"
+  },
+  {
+    "team_id": "jNvak2f3",
+    "name": "Real Sociedad",
+    "slug": "real-sociedad",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793292+00:00"
+  },
+  {
+    "team_id": "G8FL0ShI",
+    "name": "UD Levante",
+    "slug": "ud-levante",
+    "country": "Spanien",
+    "league_key": "es_laliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.793593+00:00"
+  }
+]

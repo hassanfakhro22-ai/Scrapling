@@ -1,0 +1,202 @@
+[
+  {
+    "team_id": "OtpNdwrc",
+    "name": "AFC Bournemouth",
+    "slug": "afc-bournemouth",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772861+00:00"
+  },
+  {
+    "team_id": "WSzc94ws",
+    "name": "AFC Sunderland",
+    "slug": "afc-sunderland",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773157+00:00"
+  },
+  {
+    "team_id": "W00wmLO0",
+    "name": "Aston Villa",
+    "slug": "aston-villa",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772935+00:00"
+  },
+  {
+    "team_id": "2XrRecc3",
+    "name": "Brighton & Hove Albion",
+    "slug": "brighton-hove-albion",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772692+00:00"
+  },
+  {
+    "team_id": "GOvB22xg",
+    "name": "Coventry City",
+    "slug": "coventry-city",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773107+00:00"
+  },
+  {
+    "team_id": "AovF1Mia",
+    "name": "Crystal Palace",
+    "slug": "crystal-palace",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773181+00:00"
+  },
+  {
+    "team_id": "hA1Zm19f",
+    "name": "FC Arsenal",
+    "slug": "fc-arsenal",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772661+00:00"
+  },
+  {
+    "team_id": "xYe7DwID",
+    "name": "FC Brentford",
+    "slug": "fc-brentford",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772886+00:00"
+  },
+  {
+    "team_id": "4fGZN2oK",
+    "name": "FC Chelsea",
+    "slug": "fc-chelsea",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772811+00:00"
+  },
+  {
+    "team_id": "KluSTr9s",
+    "name": "FC Everton",
+    "slug": "fc-everton",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772837+00:00"
+  },
+  {
+    "team_id": "69ZiU2Om",
+    "name": "FC Fulham",
+    "slug": "fc-fulham",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773060+00:00"
+  },
+  {
+    "team_id": "lId4TMwf",
+    "name": "FC Liverpool",
+    "slug": "fc-liverpool",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772785+00:00"
+  },
+  {
+    "team_id": "S66R0t75",
+    "name": "Hull City",
+    "slug": "hull-city",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773012+00:00"
+  },
+  {
+    "team_id": "thqhB2MB",
+    "name": "Ipswich Town",
+    "slug": "ipswich-town",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773036+00:00"
+  },
+  {
+    "team_id": "tUxUbLR2",
+    "name": "Leeds United",
+    "slug": "leeds-united",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772911+00:00"
+  },
+  {
+    "team_id": "Wtn9Stg0",
+    "name": "Manchester City",
+    "slug": "manchester-city",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772750+00:00"
+  },
+  {
+    "team_id": "ppjDR086",
+    "name": "Manchester United",
+    "slug": "manchester-united",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773131+00:00"
+  },
+  {
+    "team_id": "p6ahwuwJ",
+    "name": "Newcastle United",
+    "slug": "newcastle-united",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772984+00:00"
+  },
+  {
+    "team_id": "UsushcZr",
+    "name": "Nottingham Forest",
+    "slug": "nottingham-forest",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.773083+00:00"
+  },
+  {
+    "team_id": "UDg08Ohm",
+    "name": "Tottenham Hotspur",
+    "slug": "tottenham-hotspur",
+    "country": "England",
+    "league_key": "en_premier_league",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.772961+00:00"
+  }
+]

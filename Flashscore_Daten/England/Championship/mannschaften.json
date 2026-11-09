@@ -1,0 +1,242 @@
+[
+  {
+    "team_id": "SWk4muv7",
+    "name": "Birmingham City",
+    "slug": "birmingham-city",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776647+00:00"
+  },
+  {
+    "team_id": "6Nl8nagD",
+    "name": "Blackburn Rovers",
+    "slug": "blackburn-rovers",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777009+00:00"
+  },
+  {
+    "team_id": "Or1bBrWD",
+    "name": "Bolton Wanderers",
+    "slug": "bolton-wanderers",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777130+00:00"
+  },
+  {
+    "team_id": "MahqU27I",
+    "name": "Bristol City",
+    "slug": "bristol-city-fc",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777107+00:00"
+  },
+  {
+    "team_id": "hO8wh6aP",
+    "name": "Cardiff City",
+    "slug": "cardiff-city",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777033+00:00"
+  },
+  {
+    "team_id": "fXf5mQ7t",
+    "name": "Charlton Athletic",
+    "slug": "charlton-athletic",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777154+00:00"
+  },
+  {
+    "team_id": "Iug0YO0Q",
+    "name": "Derby County",
+    "slug": "derby-county",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777250+00:00"
+  },
+  {
+    "team_id": "z3dmTMMO",
+    "name": "FC Burnley",
+    "slug": "fc-burnley",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777225+00:00"
+  },
+  {
+    "team_id": "6F0lvLNC",
+    "name": "FC Middlesbrough",
+    "slug": "fc-middlesbrough",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776677+00:00"
+  },
+  {
+    "team_id": "6uz2cJBL",
+    "name": "FC Millwall",
+    "slug": "fc-millwall",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777083+00:00"
+  },
+  {
+    "team_id": "WdKOwxDM",
+    "name": "FC Southampton",
+    "slug": "fc-southampton",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776862+00:00"
+  },
+  {
+    "team_id": "UmMRoGzp",
+    "name": "FC Watford",
+    "slug": "fc-watford",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777178+00:00"
+  },
+  {
+    "team_id": "hrHTRs5B",
+    "name": "Lincoln City",
+    "slug": "lincoln-city",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777201+00:00"
+  },
+  {
+    "team_id": "Qo6off6p",
+    "name": "Norwich City",
+    "slug": "norwich-city",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776985+00:00"
+  },
+  {
+    "team_id": "zckREQFJ",
+    "name": "Portsmouth FC",
+    "slug": "portsmouth-fc",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776960+00:00"
+  },
+  {
+    "team_id": "x8IDVcbi",
+    "name": "Preston North End",
+    "slug": "preston-north-end",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777275+00:00"
+  },
+  {
+    "team_id": "lrMHUHDc",
+    "name": "Queens Park Rangers",
+    "slug": "queens-park-rangers",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776888+00:00"
+  },
+  {
+    "team_id": "MeKPSerA",
+    "name": "Sheffield United",
+    "slug": "sheffield-united-fc",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776937+00:00"
+  },
+  {
+    "team_id": "hSUajdSS",
+    "name": "Stoke City",
+    "slug": "stoke-city",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776745+00:00"
+  },
+  {
+    "team_id": "K6xezbY7",
+    "name": "Swansea City",
+    "slug": "swansea-city",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776837+00:00"
+  },
+  {
+    "team_id": "CCBWpzjj",
+    "name": "West Bromwich Albion",
+    "slug": "west-bromwich-albion",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776809+00:00"
+  },
+  {
+    "team_id": "Cxq57r8g",
+    "name": "West Ham United",
+    "slug": "west-ham-united",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776912+00:00"
+  },
+  {
+    "team_id": "j3Azpf5d",
+    "name": "Wolverhampton Wanderers",
+    "slug": "wolverhampton-wanderers",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.776782+00:00"
+  },
+  {
+    "team_id": "IgO7K1ZA",
+    "name": "Wrexham",
+    "slug": "wrexham-fc",
+    "country": "England",
+    "league_key": "en_championship",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.777056+00:00"
+  }
+]

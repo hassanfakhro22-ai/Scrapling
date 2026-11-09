@@ -1,0 +1,17 @@
+id,match_id,team_side,team_id,lineup_status,role,player_name,player_id,shirt_number,position,nationality,is_captain,is_goalkeeper,rating,sub_minute,replaced_player,updated_at
+7,A9JgHzZA,away,SKbpVP5K,confirmed,starter,Iñaki Peña,pl_pena,13,TW,Spanien,0,1,7.0,,,2026-11-09T12:14:55.809987+00:00
+8,A9JgHzZA,away,SKbpVP5K,confirmed,starter,Pau Cubarsí,pl_cubarsi,2,IV,Spanien,0,0,7.4,,,2026-11-09T12:14:55.809987+00:00
+9,A9JgHzZA,away,SKbpVP5K,confirmed,starter,Raphinha,pl_raphinha,11,LA,Brasilien,1,0,7.3,,,2026-11-09T12:14:55.809987+00:00
+10,A9JgHzZA,away,SKbpVP5K,confirmed,starter,Lamine Yamal,pl_yamal,19,RA,Spanien,0,0,8.4,,,2026-11-09T12:14:55.809987+00:00
+11,A9JgHzZA,away,SKbpVP5K,confirmed,starter,Robert Lewandowski,pl_lewandowski,9,ST,Polen,0,0,7.9,,,2026-11-09T12:14:55.809987+00:00
+12,A9JgHzZA,away,SKbpVP5K,confirmed,bench,Marcus Rashford,COnT2Lh0,14,LA,England,0,0,7.1,71',Raphinha,2026-11-09T12:14:55.809987+00:00
+1,A9JgHzZA,home,jaarqpLQ,confirmed,starter,Jan Oblak,pl_oblak,13,TW,Slowenien,1,1,6.8,,,2026-11-09T12:14:55.809987+00:00
+2,A9JgHzZA,home,jaarqpLQ,confirmed,starter,José María Giménez,pl_gimenez,2,IV,Uruguay,0,0,5.7,,,2026-11-09T12:14:55.809987+00:00
+3,A9JgHzZA,home,jaarqpLQ,confirmed,starter,Koke,pl_koke,6,ZM,Spanien,0,0,6.6,,,2026-11-09T12:14:55.809987+00:00
+4,A9JgHzZA,home,jaarqpLQ,confirmed,starter,Antoine Griezmann,pl_griezmann,7,ST,Frankreich,0,0,7.2,,,2026-11-09T12:14:55.809987+00:00
+5,A9JgHzZA,home,jaarqpLQ,confirmed,starter,Julián Álvarez,pl_alvarez,19,ST,Argentinien,0,0,7.5,,,2026-11-09T12:14:55.809987+00:00
+6,A9JgHzZA,home,jaarqpLQ,confirmed,bench,Alexander Sørloth,pl_sorloth,9,ST,Norwegen,0,0,6.4,74',Antoine Griezmann,2026-11-09T12:14:55.809987+00:00
+15,GEWsQBr9,away,8WUSyF3F,probable,starter,Jorge Rastrojo,feF1pyk2,7,RA,Spanien,0,0,6.9,,,2026-11-09T12:14:55.810911+00:00
+16,GEWsQBr9,away,8WUSyF3F,probable,starter,Javier Martínez,nBYFHtta,24,ZM,Spanien,0,0,6.7,,,2026-11-09T12:14:55.810911+00:00
+13,GEWsQBr9,home,IyRQC2vM,probable,starter,Jasper Cillessen,pl_cillessen,1,TW,Niederlande,0,1,6.9,,,2026-11-09T12:14:55.810911+00:00
+14,GEWsQBr9,home,IyRQC2vM,probable,starter,Kirian Rodríguez,pl_kirian,20,ZM,Spanien,1,0,7.2,,,2026-11-09T12:14:55.810911+00:00
