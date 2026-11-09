@@ -1,0 +1,11 @@
+referee_id,name,country_code,matches_officiated,yellow_cards_total,red_cards_total,penalties_awarded,updated_at
+ref_michael_oliver,Michael Oliver,Eng,10,41,2,3,2026-11-09T12:14:55.813366+00:00
+ref_andrew_madley,Andrew Madley,Eng,9,33,1,2,2026-11-09T12:14:55.806665+00:00
+ref_felix_zwayer,Felix Zwayer,Ger,9,39,1,4,2026-11-09T12:14:55.806602+00:00
+ref_sanchez_martinez,José María Sánchez Martínez,Esp,9,44,3,4,2026-11-09T12:14:55.806757+00:00
+ref_benoit_bastien,Benoît Bastien,Fra,8,31,2,3,2026-11-09T12:14:55.806698+00:00
+ref_tobias_stieler,Tobias Stieler,Ger,8,34,2,3,2026-11-09T12:14:55.813366+00:00
+ref_mallo_e,E. Mallo,Esp,7,29,1,2,2026-11-09T12:14:55.806796+00:00
+ref_beno_t_bastien,Benoît Bastien,Fra,1,0,0,0,2026-11-09T12:14:55.813366+00:00
+ref_e_mallo,E. Mallo,Esp,1,0,0,0,2026-11-09T12:14:55.813366+00:00
+ref_jos_mar_a_s_nchez_mart_nez,José María Sánchez Martínez,Esp,1,1,1,1,2026-11-09T12:14:55.813366+00:00

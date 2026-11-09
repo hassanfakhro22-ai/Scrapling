@@ -1,0 +1,182 @@
+[
+  {
+    "team_id": "CIEe04GT",
+    "name": "AC Le Havre",
+    "slug": "ac-le-havre",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786585+00:00"
+  },
+  {
+    "team_id": "MTLr36WA",
+    "name": "AJ Auxerre",
+    "slug": "aj-auxerre",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786479+00:00"
+  },
+  {
+    "team_id": "2PIvr8o4",
+    "name": "AS Monaco",
+    "slug": "as-monaco",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786307+00:00"
+  },
+  {
+    "team_id": "fsfAHubD",
+    "name": "ES Troyes AC",
+    "slug": "es-troyes-ac",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786561+00:00"
+  },
+  {
+    "team_id": "jgNAYRGi",
+    "name": "FC Lorient",
+    "slug": "fc-lorient",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786380+00:00"
+  },
+  {
+    "team_id": "0OEHEprs",
+    "name": "FC Paris",
+    "slug": "fc-paris",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786202+00:00"
+  },
+  {
+    "team_id": "MLmY2yB1",
+    "name": "FC Toulouse",
+    "slug": "fc-toulouse",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786429+00:00"
+  },
+  {
+    "team_id": "ER0NeOOp",
+    "name": "Le Mans FC",
+    "slug": "le-mans",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786511+00:00"
+  },
+  {
+    "team_id": "YagoQJpq",
+    "name": "OGC Nizza",
+    "slug": "ogc-nizza",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786282+00:00"
+  },
+  {
+    "team_id": "pfDZL71o",
+    "name": "OSC Lille",
+    "slug": "osc-lille",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786176+00:00"
+  },
+  {
+    "team_id": "2akflumR",
+    "name": "Olympique Lyon",
+    "slug": "olympique-lyon",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786254+00:00"
+  },
+  {
+    "team_id": "SblU3Hee",
+    "name": "Olympique Marseille",
+    "slug": "olympique-marseille",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786229+00:00"
+  },
+  {
+    "team_id": "CjhkPw0k",
+    "name": "PSG",
+    "slug": "paris-saint-germain",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786146+00:00"
+  },
+  {
+    "team_id": "IBmris38",
+    "name": "RC Lens",
+    "slug": "rc-lens",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786405+00:00"
+  },
+  {
+    "team_id": "nP6UzIU1",
+    "name": "Racing Straßburg",
+    "slug": "racing-strassburg",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786453+00:00"
+  },
+  {
+    "team_id": "SAlF91iL",
+    "name": "SCO Angers",
+    "slug": "sco-angers",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786536+00:00"
+  },
+  {
+    "team_id": "Cr4VGaUl",
+    "name": "Stade Brest",
+    "slug": "stade-brest",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786355+00:00"
+  },
+  {
+    "team_id": "d2nnj1IE",
+    "name": "Stade Rennes",
+    "slug": "stade-rennes",
+    "country": "Frankreich",
+    "league_key": "fr_ligue_1",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.786331+00:00"
+  }
+]

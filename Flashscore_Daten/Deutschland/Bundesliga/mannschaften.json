@@ -1,0 +1,182 @@
+[
+  {
+    "team_id": "WG9pOTse",
+    "name": "1. FC Köln",
+    "slug": "1-fc-koln",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761109+00:00"
+  },
+  {
+    "team_id": "pzHW4oaE",
+    "name": "1. FC Union Berlin",
+    "slug": "union-berlin",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761134+00:00"
+  },
+  {
+    "team_id": "4jcj2zMd",
+    "name": "Bayer Leverkusen",
+    "slug": "bayer-leverkusen",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760839+00:00"
+  },
+  {
+    "team_id": "nVp0wiqd",
+    "name": "Bayern München",
+    "slug": "bayern-munchen",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760566+00:00"
+  },
+  {
+    "team_id": "nP1i5US1",
+    "name": "Borussia Dortmund",
+    "slug": "borussia-dortmund",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760699+00:00"
+  },
+  {
+    "team_id": "88HSzjDr",
+    "name": "Borussia Mönchengladbach",
+    "slug": "borussia-monchengladbach",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761182+00:00"
+  },
+  {
+    "team_id": "8vndvXTk",
+    "name": "Eintracht Frankfurt",
+    "slug": "eintracht-frankfurt",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760986+00:00"
+  },
+  {
+    "team_id": "fTVNku3I",
+    "name": "FC Augsburg",
+    "slug": "fc-augsburg",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761085+00:00"
+  },
+  {
+    "team_id": "EuakNmc1",
+    "name": "FSV Mainz 05",
+    "slug": "1-fsv-mainz-05",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761036+00:00"
+  },
+  {
+    "team_id": "v9k3aY5F",
+    "name": "HSV",
+    "slug": "hamburg",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761012+00:00"
+  },
+  {
+    "team_id": "KbS1suSm",
+    "name": "RB Leipzig",
+    "slug": "rb-leipzig",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760808+00:00"
+  },
+  {
+    "team_id": "fiEQZ7C7",
+    "name": "SC Freiburg",
+    "slug": "sc-freiburg",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760773+00:00"
+  },
+  {
+    "team_id": "G2Op923t",
+    "name": "SC Paderborn",
+    "slug": "sc-paderborn-07",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761061+00:00"
+  },
+  {
+    "team_id": "6in2Eknb",
+    "name": "SV Elversberg",
+    "slug": "elversberg",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760892+00:00"
+  },
+  {
+    "team_id": "0Ija0Ej9",
+    "name": "Schalke 04",
+    "slug": "fc-schalke-04",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.761158+00:00"
+  },
+  {
+    "team_id": "hQAtP9Sl",
+    "name": "TSG Hoffenheim",
+    "slug": "tsg-hoffenheim",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760960+00:00"
+  },
+  {
+    "team_id": "nJQmYp1B",
+    "name": "VfB Stuttgart",
+    "slug": "vfb-stuttgart",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760930+00:00"
+  },
+  {
+    "team_id": "Ig1f1fy3",
+    "name": "Werder Bremen",
+    "slug": "werder-bremen",
+    "country": "Deutschland",
+    "league_key": "de_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.760865+00:00"
+  }
+]

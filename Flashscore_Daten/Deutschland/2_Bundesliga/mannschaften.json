@@ -1,0 +1,182 @@
+[
+  {
+    "team_id": "KWixEVWi",
+    "name": "1. FC Heidenheim",
+    "slug": "1-fc-heidenheim-1846",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765071+00:00"
+  },
+  {
+    "team_id": "naWckLmC",
+    "name": "1. FC Kaiserslautern",
+    "slug": "1-fc-kaiserslautern",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.764963+00:00"
+  },
+  {
+    "team_id": "YFuz2RLm",
+    "name": "1. FC Magdeburg",
+    "slug": "1-fc-magdeburg",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.764990+00:00"
+  },
+  {
+    "team_id": "6FDqshzF",
+    "name": "1. FC Nürnberg",
+    "slug": "1-fc-nurnberg",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.764934+00:00"
+  },
+  {
+    "team_id": "pp38UXK8",
+    "name": "Arminia Bielefeld",
+    "slug": "dsc-arminia-bielefeld",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765045+00:00"
+  },
+  {
+    "team_id": "zL1YsOi1",
+    "name": "Dynamo Dresden",
+    "slug": "dynamo-dresden",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765285+00:00"
+  },
+  {
+    "team_id": "QqLCC3il",
+    "name": "Eintracht Braunschweig",
+    "slug": "eintracht-braunschweig",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765232+00:00"
+  },
+  {
+    "team_id": "6g44VD52",
+    "name": "Energie Cottbus",
+    "slug": "energie-cottbus",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765205+00:00"
+  },
+  {
+    "team_id": "ILyJuN3g",
+    "name": "FC St. Pauli",
+    "slug": "fc-st-pauli",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765124+00:00"
+  },
+  {
+    "team_id": "dfNCCCzS",
+    "name": "Hannover 96",
+    "slug": "hannover-96",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765178+00:00"
+  },
+  {
+    "team_id": "2y0u8Wrq",
+    "name": "Hertha BSC",
+    "slug": "hertha-bsc",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.764897+00:00"
+  },
+  {
+    "team_id": "63WsD2ei",
+    "name": "Holstein Kiel",
+    "slug": "holstein-kiel",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765362+00:00"
+  },
+  {
+    "team_id": "EB3q7jbk",
+    "name": "Karlsruher SC",
+    "slug": "karlsruher-sc",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765310+00:00"
+  },
+  {
+    "team_id": "S0hPB9rA",
+    "name": "SV Darmstadt",
+    "slug": "sv-darmstadt-98",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765336+00:00"
+  },
+  {
+    "team_id": "CCQGbik8",
+    "name": "SpVgg Greuther Fürth",
+    "slug": "spvgg-greuther-furth",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765151+00:00"
+  },
+  {
+    "team_id": "8Y2m6ADe",
+    "name": "VfL Bochum",
+    "slug": "vfl-bochum",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765098+00:00"
+  },
+  {
+    "team_id": "88Xgj1Y5",
+    "name": "VfL Osnabrück",
+    "slug": "vfl-osnabruck",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765259+00:00"
+  },
+  {
+    "team_id": "nwkTahLL",
+    "name": "VfL Wolfsburg",
+    "slug": "vfl-wolfsburg",
+    "country": "Deutschland",
+    "league_key": "de_2_bundesliga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.765017+00:00"
+  }
+]

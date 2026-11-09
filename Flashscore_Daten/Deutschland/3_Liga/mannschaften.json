@@ -1,0 +1,202 @@
+[
+  {
+    "team_id": "fLbhmJ5l",
+    "name": "1. FC Saarbrücken",
+    "slug": "saarbrucken",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768631+00:00"
+  },
+  {
+    "team_id": "j3PKcB4E",
+    "name": "Alemannia Aachen",
+    "slug": "aachen",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768656+00:00"
+  },
+  {
+    "team_id": "ne5QkLtB",
+    "name": "FC Ingolstadt",
+    "slug": "fc-ingolstadt",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768605+00:00"
+  },
+  {
+    "team_id": "ne1oL3y7",
+    "name": "Fortuna Düsseldorf",
+    "slug": "fortuna-dusseldorf-1895",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768860+00:00"
+  },
+  {
+    "team_id": "rgXMAZDK",
+    "name": "Fortuna Köln",
+    "slug": "fortuna-koln",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.769036+00:00"
+  },
+  {
+    "team_id": "KIHmtCkL",
+    "name": "Hansa Rostock",
+    "slug": "hansa-rostock",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768773+00:00"
+  },
+  {
+    "team_id": "UiCmEP56",
+    "name": "Jahn Regensburg",
+    "slug": "regensburg",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768935+00:00"
+  },
+  {
+    "team_id": "2s7huW4R",
+    "name": "MSV Duisburg",
+    "slug": "msv-duisburg",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768510+00:00"
+  },
+  {
+    "team_id": "zedZaSL7",
+    "name": "Preußen Münster",
+    "slug": "preussen-munster",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768885+00:00"
+  },
+  {
+    "team_id": "EB0xsr77",
+    "name": "RW Essen",
+    "slug": "rw-essen",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768537+00:00"
+  },
+  {
+    "team_id": "ryb0Dqxr",
+    "name": "SC Verl",
+    "slug": "verl",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768960+00:00"
+  },
+  {
+    "team_id": "OQZ251DE",
+    "name": "SG Sonnenhof Großaspach",
+    "slug": "sg-sonnenhof-grossaspach",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768984+00:00"
+  },
+  {
+    "team_id": "rXqBh2xP",
+    "name": "SV Meppen",
+    "slug": "sv-meppen",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768807+00:00"
+  },
+  {
+    "team_id": "ObxFt3lm",
+    "name": "SV Wehen Wiesbaden",
+    "slug": "sv-wehen-wiesbaden",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768580+00:00"
+  },
+  {
+    "team_id": "bwwlzP9l",
+    "name": "TSG Hoffenheim II",
+    "slug": "tsg-hoffenheim",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768709+00:00"
+  },
+  {
+    "team_id": "ChZUX0PS",
+    "name": "TSV Havelse",
+    "slug": "havelse",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.769069+00:00"
+  },
+  {
+    "team_id": "84SxvsCb",
+    "name": "VfB Stuttgart II",
+    "slug": "vfb-stuttgart",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768833+00:00"
+  },
+  {
+    "team_id": "44oKBLkf",
+    "name": "Viktoria Köln",
+    "slug": "fc-viktoria-koln",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768474+00:00"
+  },
+  {
+    "team_id": "6LJtezQO",
+    "name": "Waldhof Mannheim",
+    "slug": "waldhof-mannheim",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768685+00:00"
+  },
+  {
+    "team_id": "nVM1YUFj",
+    "name": "Würzburger Kickers",
+    "slug": "fc-wurzburger-kickers",
+    "country": "Deutschland",
+    "league_key": "de_3_liga",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.768910+00:00"
+  }
+]

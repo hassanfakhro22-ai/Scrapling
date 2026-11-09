@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": "G8iGPRhJ",
+    "season": "2026/2027",
+    "matchday": "15. Spieltag",
+    "kickoff_raw": "14.11.2026 10:00",
+    "status": "scheduled",
+    "phase": "NS",
+    "minute": null,
+    "home_team_id": "4KREuF43",
+    "home_team_name": "AFC Wimbledon",
+    "away_team_id": "8EFIJthC",
+    "away_team_name": "Blackpool FC",
+    "home_score": null,
+    "away_score": null,
+    "ht_home_score": null,
+    "ht_away_score": null,
+    "referee_name": null,
+    "stadium_name": "The Cherry Red Records Stadium",
+    "stadium_city": "London",
+    "stadium_capacity": 9215,
+    "attendance": null,
+    "updated_at": "2026-11-09T12:14:55.808245+00:00"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": "Gt5z5AvB",
+    "season": "2026/2027",
+    "matchday": "16. Spieltag",
+    "kickoff_raw": "21.11.2026 07:30",
+    "status": "scheduled",
+    "phase": "NS",
+    "minute": null,
+    "home_team_id": "6uz2cJBL",
+    "home_team_name": "FC Millwall",
+    "away_team_id": "lrMHUHDc",
+    "away_team_name": "Queens Park Rangers",
+    "home_score": null,
+    "away_score": null,
+    "ht_home_score": null,
+    "ht_away_score": null,
+    "referee_name": null,
+    "stadium_name": "The Den",
+    "stadium_city": "London",
+    "stadium_capacity": 20146,
+    "attendance": null,
+    "updated_at": "2026-11-09T12:14:55.808084+00:00"
+  }
+]

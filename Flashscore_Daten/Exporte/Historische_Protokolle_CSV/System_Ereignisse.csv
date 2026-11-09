@@ -1,0 +1,2 @@
+id,logged_at,level,component,event_code,message,details_json
+1,2026-11-09T12:14:55.894804+00:00,INFO,FlashscoreExporter,BACKUP_CREATED,Automatisches Backup erstellt: Flashscore_Komplettbackup_20261109T121455Z.zip,"{""sqlite_backup"": ""/home/user/Scrapling/Flashscore_Daten/Backups/Gesamtdatenbank_Backup_20261109T121455Z.sqlite"", ""zip_backup"": ""/home/user/Scrapling/Flashscore_Daten/Backups/Flashscore_Komplettbackup_20261109T121455Z.zip""}"

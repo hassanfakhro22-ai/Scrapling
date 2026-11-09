@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": "0Qn5flSF",
+    "season": "2026/2027",
+    "matchday": "13. Spieltag",
+    "kickoff_raw": "20.11.2026 14:00",
+    "status": "scheduled",
+    "phase": "NS",
+    "minute": null,
+    "home_team_id": "dnIrsS0A",
+    "home_team_name": "AS Nancy",
+    "away_team_id": "dIvQQaE7",
+    "away_team_name": "Dijon FCO",
+    "home_score": null,
+    "away_score": null,
+    "ht_home_score": null,
+    "ht_away_score": null,
+    "referee_name": null,
+    "stadium_name": "Stade Marcel Picot",
+    "stadium_city": "Nancy",
+    "stadium_capacity": 20087,
+    "attendance": null,
+    "updated_at": "2026-11-09T12:14:55.808420+00:00"
+  }
+]

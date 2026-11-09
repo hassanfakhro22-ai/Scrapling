@@ -1,0 +1,242 @@
+[
+  {
+    "team_id": "4KREuF43",
+    "name": "AFC Wimbledon",
+    "slug": "afc-wimbledon",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781899+00:00"
+  },
+  {
+    "team_id": "8EFIJthC",
+    "name": "Blackpool FC",
+    "slug": "blackpool-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781925+00:00"
+  },
+  {
+    "team_id": "bsc3EJ27",
+    "name": "Bradford City",
+    "slug": "bradford-city",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781426+00:00"
+  },
+  {
+    "team_id": "Opdcd08Q",
+    "name": "Bromley FC",
+    "slug": "bromley-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.782077+00:00"
+  },
+  {
+    "team_id": "nwCtJaJT",
+    "name": "Burton Albion",
+    "slug": "burton-albion",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781784+00:00"
+  },
+  {
+    "team_id": "lnb8EJRp",
+    "name": "Cambridge United",
+    "slug": "cambridge-united-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781450+00:00"
+  },
+  {
+    "team_id": "hlzYDy5q",
+    "name": "Doncaster Rovers",
+    "slug": "doncaster-rovers-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781974+00:00"
+  },
+  {
+    "team_id": "UNGEKMx6",
+    "name": "FC Barnsley",
+    "slug": "fc-barnsley",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.782053+00:00"
+  },
+  {
+    "team_id": "EmlVDpVP",
+    "name": "FC Reading",
+    "slug": "fc-reading",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781401+00:00"
+  },
+  {
+    "team_id": "xxxpBZl2",
+    "name": "Huddersfield Town",
+    "slug": "huddersfield-town",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781271+00:00"
+  },
+  {
+    "team_id": "KrrdAMyI",
+    "name": "Leicester City",
+    "slug": "leicester-city",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781603+00:00"
+  },
+  {
+    "team_id": "KKyYcus9",
+    "name": "Leyton Orient",
+    "slug": "leyton-orient",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781745+00:00"
+  },
+  {
+    "team_id": "SlybbadF",
+    "name": "Luton Town",
+    "slug": "luton-town",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781351+00:00"
+  },
+  {
+    "team_id": "t6G9wMZN",
+    "name": "Mansfield Town",
+    "slug": "mansfield-town",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781642+00:00"
+  },
+  {
+    "team_id": "f9KDxtkU",
+    "name": "Milton Keynes Dons",
+    "slug": "milton-keynes-dons-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781669+00:00"
+  },
+  {
+    "team_id": "EwJVdqzn",
+    "name": "Notts County FC",
+    "slug": "notts-county-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781859+00:00"
+  },
+  {
+    "team_id": "vgOBT43c",
+    "name": "Oxford United",
+    "slug": "oxford-united-fc",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781327+00:00"
+  },
+  {
+    "team_id": "tWeI85kh",
+    "name": "Peterborough United",
+    "slug": "peterborough-united",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.782029+00:00"
+  },
+  {
+    "team_id": "WpGM6ELj",
+    "name": "Plymouth Argyle",
+    "slug": "plymouth-argyle",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781377+00:00"
+  },
+  {
+    "team_id": "llcCvIcG",
+    "name": "Sheffield Wednesday",
+    "slug": "sheffield-wednesday",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781549+00:00"
+  },
+  {
+    "team_id": "ANwyQM2M",
+    "name": "Stevenage FC",
+    "slug": "fc-stevenage",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781810+00:00"
+  },
+  {
+    "team_id": "IX6WjNvr",
+    "name": "Stockport County",
+    "slug": "stockport-county",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781301+00:00"
+  },
+  {
+    "team_id": "MgHlK2Na",
+    "name": "Wigan Athletic",
+    "slug": "wigan-athletic",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.782004+00:00"
+  },
+  {
+    "team_id": "hl2V5JIl",
+    "name": "Wycombe Wanderers",
+    "slug": "wycombe-wanderers",
+    "country": "England",
+    "league_key": "en_league_one",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.781695+00:00"
+  }
+]

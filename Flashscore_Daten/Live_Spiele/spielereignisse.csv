@@ -1,0 +1,14 @@
+id,match_id,event_key,half,minute,event_type,team_side,player_name,player_id,secondary_player_name,secondary_player_id,score_snapshot,detail,first_detected_at
+13,Me9aWSp3,a150a1410ab766f0ce3e5f99,2. Halbzeit,89',goal,away,Ollie Watkins,pl_watkins,,,4 - 4,,2026-11-09T12:14:55.809047+00:00
+12,Me9aWSp3,4410b019035158fafb0bf9f5,2. Halbzeit,67',yellow_card,home,Manuel Ugarte,pl_ugarte,,,,Foul,2026-11-09T12:14:55.809047+00:00
+11,Me9aWSp3,17ea291a2bedbd4feca1092f,1. Halbzeit,45+2',penalty_goal,away,Youri Tielemans,pl_tielemans,,,2 - 2,Elfmeter,2026-11-09T12:14:55.809047+00:00
+10,Me9aWSp3,ae35b1c1553b6183b3386d04,1. Halbzeit,41',goal,home,Leon Goretzka,pl_goretzka,Bruno Fernandes,pl_bfernandes,2 - 1,,2026-11-09T12:14:55.809047+00:00
+9,Me9aWSp3,df9ce513fe86fc83c37f217f,1. Halbzeit,29',goal,away,Ollie Watkins,pl_watkins,Morgan Rogers,pl_rogers,1 - 1,,2026-11-09T12:14:55.809047+00:00
+8,Me9aWSp3,1b7c73116b359e4420bcf185,1. Halbzeit,14',goal,home,Bruno Fernandes,pl_bfernandes,Amad Diallo,pl_amad,1 - 0,,2026-11-09T12:14:55.809047+00:00
+7,A9JgHzZA,c0aab7738d0420721679c7e2,2. Halbzeit,90+2',red_card,home,José María Giménez,pl_gimenez,,,,Notbremse,2026-11-09T12:14:55.808767+00:00
+6,A9JgHzZA,682cdc182968610378f21ac1,2. Halbzeit,84',penalty_goal,away,Lamine Yamal,pl_yamal,,,1 - 2,Elfmeter,2026-11-09T12:14:55.808767+00:00
+5,A9JgHzZA,ade65ac31712d2fdc732ca7a,2. Halbzeit,71',substitution,away,Marcus Rashford,COnT2Lh0,Raphinha,pl_raphinha,,,2026-11-09T12:14:55.808767+00:00
+4,A9JgHzZA,ff6afc465891b669c28d72da,2. Halbzeit,59',goal,away,Robert Lewandowski,pl_lewandowski,Lamine Yamal,pl_yamal,1 - 1,,2026-11-09T12:14:55.808767+00:00
+3,A9JgHzZA,efca8d50c2c8de02df87b3c2,2. Halbzeit,58',var,away,Robert Lewandowski,pl_lewandowski,,,,Tor bestätigt (Abseitsprüfung),2026-11-09T12:14:55.808767+00:00
+2,A9JgHzZA,fe112fa26484b9e24245af3d,1. Halbzeit,39',yellow_card,home,Koke,pl_koke,,,,Foul,2026-11-09T12:14:55.808767+00:00
+1,A9JgHzZA,9c95b64e3605c17fa25d96dd,1. Halbzeit,24',goal,home,Julián Álvarez,pl_alvarez,Antoine Griezmann,pl_griezmann,1 - 0,,2026-11-09T12:14:55.808767+00:00

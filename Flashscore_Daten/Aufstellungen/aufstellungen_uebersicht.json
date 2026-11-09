@@ -1,0 +1,26 @@
+[
+  {
+    "match_id": "GEWsQBr9",
+    "lineup_status": "probable",
+    "home_formation": "4-2-3-1",
+    "away_formation": "4-4-2",
+    "home_rating": null,
+    "away_rating": null,
+    "home_coach": "A. Sánchez",
+    "away_coach": "Javier Calleja",
+    "state_hash": "8979211e594f2ba8541a8d693e72982dcc7ed357b765de8b55726bb9a354f7bf",
+    "updated_at": "2026-11-09T12:14:55.810911+00:00"
+  },
+  {
+    "match_id": "A9JgHzZA",
+    "lineup_status": "confirmed",
+    "home_formation": "4-4-2",
+    "away_formation": "4-2-3-1",
+    "home_rating": 6.62,
+    "away_rating": 7.34,
+    "home_coach": "Diego Simeone",
+    "away_coach": "Hansi Flick",
+    "state_hash": "ffc9390e4a5e0e0f2a617f3e28637e9babb7fb050e567e902f335e7c765bd2f0",
+    "updated_at": "2026-11-09T12:14:55.809987+00:00"
+  }
+]

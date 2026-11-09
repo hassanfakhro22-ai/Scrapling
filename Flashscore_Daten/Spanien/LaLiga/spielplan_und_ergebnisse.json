@@ -1,0 +1,25 @@
+[
+  {
+    "match_id": "A9JgHzZA",
+    "season": "2026/2027",
+    "matchday": "12. Spieltag",
+    "kickoff_raw": "08.11.2026 15:00",
+    "status": "finished",
+    "phase": "FT",
+    "minute": "90+5'",
+    "home_team_id": "jaarqpLQ",
+    "home_team_name": "Atlético Madrid",
+    "away_team_id": "SKbpVP5K",
+    "away_team_name": "FC Barcelona",
+    "home_score": 1,
+    "away_score": 2,
+    "ht_home_score": 1,
+    "ht_away_score": 0,
+    "referee_name": "José María Sánchez Martínez",
+    "stadium_name": "Riyadh Air Metropolitano",
+    "stadium_city": "Madrid",
+    "stadium_capacity": 70692,
+    "attendance": 69410,
+    "updated_at": "2026-11-09T12:14:55.808517+00:00"
+  }
+]

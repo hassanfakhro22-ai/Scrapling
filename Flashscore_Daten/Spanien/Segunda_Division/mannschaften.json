@@ -1,0 +1,222 @@
+[
+  {
+    "team_id": "UirAofN6",
+    "name": "Albacete Balompié",
+    "slug": "albacete-balompie",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802614+00:00"
+  },
+  {
+    "team_id": "O6ucWgAa",
+    "name": "Andorra",
+    "slug": "fc-andorra",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802537+00:00"
+  },
+  {
+    "team_id": "vTxTEFi6",
+    "name": "Burgos CF",
+    "slug": "burgos-cf",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802265+00:00"
+  },
+  {
+    "team_id": "QyHHzdwl",
+    "name": "CD Castellón",
+    "slug": "castellon",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802242+00:00"
+  },
+  {
+    "team_id": "Mi0rXQg7",
+    "name": "CD Leganés",
+    "slug": "cd-leganes",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802519+00:00"
+  },
+  {
+    "team_id": "IHv6nz80",
+    "name": "CD Teneriffa",
+    "slug": "cd-teneriffa",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802465+00:00"
+  },
+  {
+    "team_id": "GQPCyIeG",
+    "name": "Celta Vigo B",
+    "slug": "celta-vigo",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802501+00:00"
+  },
+  {
+    "team_id": "xpWAk3h6",
+    "name": "Ceuta",
+    "slug": "ceuta",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802649+00:00"
+  },
+  {
+    "team_id": "8WUSyF3F",
+    "name": "Eldense",
+    "slug": "eldense",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802483+00:00"
+  },
+  {
+    "team_id": "hdWjLJUJ",
+    "name": "FC Cádiz",
+    "slug": "cadiz",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802574+00:00"
+  },
+  {
+    "team_id": "CWuejruc",
+    "name": "FC Córdoba",
+    "slug": "fc-cordoba",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802394+00:00"
+  },
+  {
+    "team_id": "nNNpcUSL",
+    "name": "FC Girona",
+    "slug": "fc-girona",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802357+00:00"
+  },
+  {
+    "team_id": "EXuxl1xP",
+    "name": "FC Granada",
+    "slug": "fc-granada",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802302+00:00"
+  },
+  {
+    "team_id": "4jDQxrbf",
+    "name": "RCD Mallorca",
+    "slug": "rcd-mallorca",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802321+00:00"
+  },
+  {
+    "team_id": "SzYzw34K",
+    "name": "Real Oviedo",
+    "slug": "real-oviedo",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802375+00:00"
+  },
+  {
+    "team_id": "UJOGLItN",
+    "name": "Real Sociedad B",
+    "slug": "r-sociedad",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802555+00:00"
+  },
+  {
+    "team_id": "zkpajjvm",
+    "name": "Real Valladolid",
+    "slug": "real-valladolid",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802412+00:00"
+  },
+  {
+    "team_id": "OEsEpExD",
+    "name": "SD Eibar",
+    "slug": "sd-eibar",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802284+00:00"
+  },
+  {
+    "team_id": "lnS2YNhJ",
+    "name": "Sabadell",
+    "slug": "sabadell",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802430+00:00"
+  },
+  {
+    "team_id": "69w4Rb2d",
+    "name": "Sporting Gijón",
+    "slug": "sporting-gijon",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802339+00:00"
+  },
+  {
+    "team_id": "nF2Vy2D0",
+    "name": "UD Almería",
+    "slug": "ud-almeria",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802215+00:00"
+  },
+  {
+    "team_id": "IyRQC2vM",
+    "name": "UD Las Palmas",
+    "slug": "las-palmas",
+    "country": "Spanien",
+    "league_key": "es_segunda_division",
+    "stadium_name": null,
+    "coach_name": null,
+    "updated_at": "2026-11-09T12:14:55.802448+00:00"
+  }
+]

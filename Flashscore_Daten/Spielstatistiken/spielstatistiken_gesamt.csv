@@ -1,0 +1,21 @@
+match_id,league_key,home_team_name,away_team_name,period,category,metric_name,home_raw,away_raw,home_value,away_value,updated_at
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Expected Goals (xG),1.28,2.41,1.28,2.41,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Ballbesitz,38%,62%,38.0,62.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Schüsse gesamt,11,18,11.0,18.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Schüsse aufs Tor,4,8,4.0,8.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Großchancen,2,5,2.0,5.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Eckbälle,4,7,4.0,7.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Pässe,82% (312/380),90% (558/620),82.0,90.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Gelbe Karten,3,2,3.0,2.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Top-Statistiken,Rote Karten,1,0,1.0,0.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Schüsse,Schüsse neben das Tor,5,6,5.0,6.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Schüsse,Geblockte Schüsse,2,4,2.0,4.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Schüsse,Schüsse innerhalb des Strafraums,8,13,8.0,13.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Schüsse,Schüsse außerhalb des Strafraums,3,5,3.0,5.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Angriff,Abseits,3,2,3.0,2.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Angriff,Ballkontakte im gegnerischen Strafraum,19,34,19.0,34.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Pässe,Genaue lange Bälle,48% (12/25),65% (17/26),48.0,65.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Verteidigung,Fouls,14,9,14.0,9.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Verteidigung,Gewonnene Zweikämpfe,49,56,49.0,56.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Verteidigung,Gewonnene Tacklings,64% (14/22),71% (15/21),64.0,71.0,2026-11-09T12:14:55.809167+00:00
+A9JgHzZA,es_laliga,Atlético Madrid,FC Barcelona,gesamt,Torhüter,Paraden,6,3,6.0,3.0,2026-11-09T12:14:55.809167+00:00

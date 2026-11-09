@@ -1,0 +1,2 @@
+match_id,season,matchday,kickoff_raw,status,phase,minute,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,ht_home_score,ht_away_score,referee_name,stadium_name,stadium_city,stadium_capacity,attendance,updated_at
+A9JgHzZA,2026/2027,12. Spieltag,08.11.2026 15:00,finished,FT,90+5',jaarqpLQ,Atlético Madrid,SKbpVP5K,FC Barcelona,1,2,1,0,José María Sánchez Martínez,Riyadh Air Metropolitano,Madrid,70692,69410,2026-11-09T12:14:55.808517+00:00

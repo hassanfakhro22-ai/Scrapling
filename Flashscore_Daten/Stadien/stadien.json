@@ -1,0 +1,191 @@
+[
+  {
+    "stadium_id": "stad_allianz_arena_muenchen",
+    "name": "Allianz Arena",
+    "city": "München",
+    "country": "Deutschland",
+    "capacity": 75024,
+    "home_teams": "Bayern München",
+    "updated_at": "2026-11-09T12:14:55.806129+00:00"
+  },
+  {
+    "stadium_id": "stad_allianz_arena_m_nchen",
+    "name": "Allianz Arena",
+    "city": "München",
+    "country": "Deutschland",
+    "capacity": 75024,
+    "home_teams": "Bayern München",
+    "updated_at": "2026-11-09T12:14:55.807491+00:00"
+  },
+  {
+    "stadium_id": "stad_san_mames_bilbao",
+    "name": "Estadio San Mamés",
+    "city": "Bilbao",
+    "country": "Spanien",
+    "capacity": 53331,
+    "home_teams": "Athletic Bilbao",
+    "updated_at": "2026-11-09T12:14:55.806475+00:00"
+  },
+  {
+    "stadium_id": "stad_gran_canaria_las_palmas",
+    "name": "Estadio de Gran Canaria",
+    "city": "Las Palmas",
+    "country": "Spanien",
+    "capacity": 32392,
+    "home_teams": "UD Las Palmas",
+    "updated_at": "2026-11-09T12:14:55.806494+00:00"
+  },
+  {
+    "stadium_id": "stad_estadio_de_gran_canaria_las_palmas",
+    "name": "Estadio de Gran Canaria",
+    "city": "Las Palmas",
+    "country": "Spanien",
+    "capacity": 32392,
+    "home_teams": "UD Las Palmas",
+    "updated_at": "2026-11-09T12:14:55.808637+00:00"
+  },
+  {
+    "stadium_id": "stad_etihad_stadium_manchester",
+    "name": "Etihad Stadium",
+    "city": "Manchester",
+    "country": "England",
+    "capacity": 61038,
+    "home_teams": "Manchester City",
+    "updated_at": "2026-11-09T12:14:55.807983+00:00"
+  },
+  {
+    "stadium_id": "stad_old_trafford_manchester",
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "country": "England",
+    "capacity": 74310,
+    "home_teams": "Manchester United",
+    "updated_at": "2026-11-09T12:14:55.807870+00:00"
+  },
+  {
+    "stadium_id": "stad_prezero_arena_sinsheim",
+    "name": "PreZero Arena",
+    "city": "Sinsheim",
+    "country": "Deutschland",
+    "capacity": 30150,
+    "home_teams": "TSG Hoffenheim",
+    "updated_at": "2026-11-09T12:14:55.806866+00:00"
+  },
+  {
+    "stadium_id": "stad_metropolitano_madrid",
+    "name": "Riyadh Air Metropolitano",
+    "city": "Madrid",
+    "country": "Spanien",
+    "capacity": 70692,
+    "home_teams": "Atlético Madrid",
+    "updated_at": "2026-11-09T12:14:55.806457+00:00"
+  },
+  {
+    "stadium_id": "stad_riyadh_air_metropolitano_madrid",
+    "name": "Riyadh Air Metropolitano",
+    "city": "Madrid",
+    "country": "Spanien",
+    "capacity": 70692,
+    "home_teams": "Atlético Madrid",
+    "updated_at": "2026-11-09T12:14:55.808517+00:00"
+  },
+  {
+    "stadium_id": "stad_schuecoarena_bielefeld",
+    "name": "SchücoArena",
+    "city": "Bielefeld",
+    "country": "Deutschland",
+    "capacity": 27332,
+    "home_teams": "Arminia Bielefeld",
+    "updated_at": "2026-11-09T12:14:55.806278+00:00"
+  },
+  {
+    "stadium_id": "stad_sch_coarena_bielefeld",
+    "name": "SchücoArena",
+    "city": "Bielefeld",
+    "country": "Deutschland",
+    "capacity": 27332,
+    "home_teams": "Arminia Bielefeld",
+    "updated_at": "2026-11-09T12:14:55.807626+00:00"
+  },
+  {
+    "stadium_id": "stad_sportpark_hoehenberg_koeln",
+    "name": "Sportpark Höhenberg",
+    "city": "Köln",
+    "country": "Deutschland",
+    "capacity": 8343,
+    "home_teams": "Viktoria Köln",
+    "updated_at": "2026-11-09T12:14:55.806299+00:00"
+  },
+  {
+    "stadium_id": "stad_stade_bollaert_delelis_lens",
+    "name": "Stade Bollaert-Delelis",
+    "city": "Lens",
+    "country": "Frankreich",
+    "capacity": 38223,
+    "home_teams": "RC Lens",
+    "updated_at": "2026-11-09T12:14:55.808326+00:00"
+  },
+  {
+    "stadium_id": "stad_stade_marcel_picot_nancy",
+    "name": "Stade Marcel Picot",
+    "city": "Nancy",
+    "country": "Frankreich",
+    "capacity": 20087,
+    "home_teams": "AS Nancy",
+    "updated_at": "2026-11-09T12:14:55.808420+00:00"
+  },
+  {
+    "stadium_id": "stad_stade_velodrome_marseille",
+    "name": "Stade Vélodrome",
+    "city": "Marseille",
+    "country": "Frankreich",
+    "capacity": 67394,
+    "home_teams": "Olympique Marseille",
+    "updated_at": "2026-11-09T12:14:55.806401+00:00"
+  },
+  {
+    "stadium_id": "stad_stade_de_laube_troyes",
+    "name": "Stade de l'Aube",
+    "city": "Troyes",
+    "country": "Frankreich",
+    "capacity": 20420,
+    "home_teams": "ES Troyes AC",
+    "updated_at": "2026-11-09T12:14:55.806420+00:00"
+  },
+  {
+    "stadium_id": "stad_cherry_red_records_london",
+    "name": "The Cherry Red Records Stadium",
+    "city": "London",
+    "country": "England",
+    "capacity": 9215,
+    "home_teams": "AFC Wimbledon",
+    "updated_at": "2026-11-09T12:14:55.806380+00:00"
+  },
+  {
+    "stadium_id": "stad_the_cherry_red_records_stadium_london",
+    "name": "The Cherry Red Records Stadium",
+    "city": "London",
+    "country": "England",
+    "capacity": 9215,
+    "home_teams": "AFC Wimbledon",
+    "updated_at": "2026-11-09T12:14:55.808245+00:00"
+  },
+  {
+    "stadium_id": "stad_the_den_london",
+    "name": "The Den",
+    "city": "London",
+    "country": "England",
+    "capacity": 20146,
+    "home_teams": "FC Millwall",
+    "updated_at": "2026-11-09T12:14:55.808084+00:00"
+  },
+  {
+    "stadium_id": "stad_veltin_arena_gelsenkirchen",
+    "name": "VELTINS-Arena",
+    "city": "Gelsenkirchen",
+    "country": "Deutschland",
+    "capacity": 62271,
+    "home_teams": "Schalke 04",
+    "updated_at": "2026-11-09T12:14:55.806254+00:00"
+  }
+]
