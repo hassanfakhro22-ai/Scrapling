@@ -1,0 +1,2911 @@
+{
+  "source": "https://www.livescore.com/de/",
+  "extracted_at": "2026-11-09",
+  "timezone": "Europe/Berlin (MEZ, UTC+1)",
+  "leagues_count": 9,
+  "leagues": [
+    {
+      "id": "de_1_bundesliga",
+      "country": "Deutschland",
+      "tier": "1. Liga",
+      "name": "1. Bundesliga",
+      "url": "https://www.livescore.com/de/fussball/deutschland/bundesliga/",
+      "standings_url": "https://www.livescore.com/de/fussball/deutschland/bundesliga/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "TSG Hoffenheim",
+          "score": "2:1",
+          "away": "Schalke 04"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "SC Freiburg",
+          "score": "2:0",
+          "away": "Union Berlin"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "1. FC Köln",
+          "score": "1:2",
+          "away": "Bayer Leverkusen"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:30",
+          "home": "Bayern München",
+          "away": "1. FC Köln"
+        }
+      ],
+      "top_scorers": [
+        {
+          "rank": 1,
+          "player": "N. Füllkrug",
+          "team": "Werder Bremen",
+          "goals": 9,
+          "xg": 6.1
+        },
+        {
+          "rank": 2,
+          "player": "P. Schick",
+          "team": "Bayer Leverkusen",
+          "goals": 8,
+          "xg": 5.6
+        },
+        {
+          "rank": 3,
+          "player": "P. Tietz",
+          "team": "FSV Mainz",
+          "goals": 6,
+          "xg": 4.6
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Bayern München",
+          "played": 9,
+          "wins": 6,
+          "draws": 3,
+          "losses": 0,
+          "goals_for": 29,
+          "goals_against": 9,
+          "goal_diff": 20,
+          "points": 21
+        },
+        {
+          "rank": 2,
+          "team": "Borussia Dortmund",
+          "played": 9,
+          "wins": 6,
+          "draws": 3,
+          "losses": 0,
+          "goals_for": 16,
+          "goals_against": 7,
+          "goal_diff": 9,
+          "points": 21
+        },
+        {
+          "rank": 3,
+          "team": "SC Freiburg",
+          "played": 9,
+          "wins": 6,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 20,
+          "goals_against": 10,
+          "goal_diff": 10,
+          "points": 19
+        },
+        {
+          "rank": 4,
+          "team": "RB Leipzig",
+          "played": 9,
+          "wins": 6,
+          "draws": 0,
+          "losses": 3,
+          "goals_for": 27,
+          "goals_against": 13,
+          "goal_diff": 14,
+          "points": 18
+        },
+        {
+          "rank": 5,
+          "team": "Bayer Leverkusen",
+          "played": 9,
+          "wins": 5,
+          "draws": 1,
+          "losses": 3,
+          "goals_for": 20,
+          "goals_against": 17,
+          "goal_diff": 3,
+          "points": 16
+        },
+        {
+          "rank": 6,
+          "team": "Werder Bremen",
+          "played": 9,
+          "wins": 4,
+          "draws": 3,
+          "losses": 2,
+          "goals_for": 17,
+          "goals_against": 15,
+          "goal_diff": 2,
+          "points": 15
+        },
+        {
+          "rank": 7,
+          "team": "SV 07 Elversberg",
+          "played": 9,
+          "wins": 4,
+          "draws": 1,
+          "losses": 4,
+          "goals_for": 17,
+          "goals_against": 18,
+          "goal_diff": -1,
+          "points": 13
+        },
+        {
+          "rank": 8,
+          "team": "VfB Stuttgart",
+          "played": 9,
+          "wins": 4,
+          "draws": 0,
+          "losses": 5,
+          "goals_for": 15,
+          "goals_against": 15,
+          "goal_diff": 0,
+          "points": 12
+        },
+        {
+          "rank": 9,
+          "team": "TSG Hoffenheim",
+          "played": 9,
+          "wins": 4,
+          "draws": 0,
+          "losses": 5,
+          "goals_for": 16,
+          "goals_against": 17,
+          "goal_diff": -1,
+          "points": 12
+        },
+        {
+          "rank": 10,
+          "team": "Eintracht Frankfurt",
+          "played": 9,
+          "wins": 3,
+          "draws": 3,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 20,
+          "goal_diff": -5,
+          "points": 12
+        },
+        {
+          "rank": 11,
+          "team": "Hamburger SV",
+          "played": 9,
+          "wins": 4,
+          "draws": 0,
+          "losses": 5,
+          "goals_for": 10,
+          "goals_against": 20,
+          "goal_diff": -10,
+          "points": 12
+        },
+        {
+          "rank": 12,
+          "team": "FSV Mainz",
+          "played": 9,
+          "wins": 3,
+          "draws": 1,
+          "losses": 5,
+          "goals_for": 18,
+          "goals_against": 19,
+          "goal_diff": -1,
+          "points": 10
+        },
+        {
+          "rank": 13,
+          "team": "SC Paderborn 07",
+          "played": 9,
+          "wins": 2,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 8,
+          "goals_against": 11,
+          "goal_diff": -3,
+          "points": 10
+        },
+        {
+          "rank": 14,
+          "team": "FC Augsburg",
+          "played": 9,
+          "wins": 2,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 20,
+          "goals_against": 20,
+          "goal_diff": 0,
+          "points": 9
+        },
+        {
+          "rank": 15,
+          "team": "1. FC Köln",
+          "played": 9,
+          "wins": 2,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 10,
+          "goals_against": 14,
+          "goal_diff": -4,
+          "points": 9
+        },
+        {
+          "rank": 16,
+          "team": "Union Berlin",
+          "played": 9,
+          "wins": 1,
+          "draws": 4,
+          "losses": 4,
+          "goals_for": 7,
+          "goals_against": 21,
+          "goal_diff": -14,
+          "points": 7
+        },
+        {
+          "rank": 17,
+          "team": "Schalke 04",
+          "played": 9,
+          "wins": 1,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 5,
+          "goals_against": 11,
+          "goal_diff": -6,
+          "points": 6
+        },
+        {
+          "rank": 18,
+          "team": "Borussia Mönchengladbach",
+          "played": 9,
+          "wins": 1,
+          "draws": 1,
+          "losses": 7,
+          "goals_for": 12,
+          "goals_against": 25,
+          "goal_diff": -13,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "id": "de_2_bundesliga",
+      "country": "Deutschland",
+      "tier": "2. Liga",
+      "name": "2. Bundesliga",
+      "url": "https://www.livescore.com/de/fussball/deutschland/2-bundesliga/",
+      "standings_url": "https://www.livescore.com/de/fussball/deutschland/2-bundesliga/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "1. FC Heidenheim 1846",
+          "score": "2:2",
+          "away": "Hannover 96"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "1. FC Magdeburg",
+          "score": "4:1",
+          "away": "FC St. Pauli"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "VfL Bochum",
+          "score": "3:2",
+          "away": "Karlsruher SC"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "20.11.2026",
+          "time_mez": "18:30",
+          "home": "Arminia Bielefeld",
+          "away": "1. FC Magdeburg"
+        },
+        {
+          "date": "20.11.2026",
+          "time_mez": "18:30",
+          "home": "SV Darmstadt 98",
+          "away": "1. FC Heidenheim 1846"
+        }
+      ],
+      "top_scorers": [],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Hertha BSC",
+          "played": 11,
+          "wins": 10,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 25,
+          "goals_against": 9,
+          "goal_diff": 16,
+          "points": 31
+        },
+        {
+          "rank": 2,
+          "team": "1. FC Nürnberg",
+          "played": 11,
+          "wins": 7,
+          "draws": 3,
+          "losses": 1,
+          "goals_for": 26,
+          "goals_against": 13,
+          "goal_diff": 13,
+          "points": 24
+        },
+        {
+          "rank": 3,
+          "team": "1. FC Kaiserslautern",
+          "played": 11,
+          "wins": 6,
+          "draws": 3,
+          "losses": 2,
+          "goals_for": 10,
+          "goals_against": 7,
+          "goal_diff": 3,
+          "points": 21
+        },
+        {
+          "rank": 4,
+          "team": "1. FC Magdeburg",
+          "played": 11,
+          "wins": 6,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 25,
+          "goals_against": 14,
+          "goal_diff": 11,
+          "points": 20
+        },
+        {
+          "rank": 5,
+          "team": "VfL Wolfsburg",
+          "played": 11,
+          "wins": 5,
+          "draws": 4,
+          "losses": 2,
+          "goals_for": 26,
+          "goals_against": 16,
+          "goal_diff": 10,
+          "points": 19
+        },
+        {
+          "rank": 6,
+          "team": "Arminia Bielefeld",
+          "played": 11,
+          "wins": 5,
+          "draws": 2,
+          "losses": 4,
+          "goals_for": 18,
+          "goals_against": 16,
+          "goal_diff": 2,
+          "points": 17
+        },
+        {
+          "rank": 7,
+          "team": "1. FC Heidenheim 1846",
+          "played": 11,
+          "wins": 4,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 19,
+          "goals_against": 20,
+          "goal_diff": -1,
+          "points": 16
+        },
+        {
+          "rank": 8,
+          "team": "VfL Bochum",
+          "played": 11,
+          "wins": 4,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 11,
+          "goals_against": 13,
+          "goal_diff": -2,
+          "points": 14
+        },
+        {
+          "rank": 9,
+          "team": "FC St. Pauli",
+          "played": 11,
+          "wins": 2,
+          "draws": 6,
+          "losses": 3,
+          "goals_for": 13,
+          "goals_against": 16,
+          "goal_diff": -3,
+          "points": 12
+        },
+        {
+          "rank": 10,
+          "team": "SpVgg Greuther Fürth",
+          "played": 11,
+          "wins": 3,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 13,
+          "goals_against": 19,
+          "goal_diff": -6,
+          "points": 12
+        },
+        {
+          "rank": 11,
+          "team": "Hannover 96",
+          "played": 11,
+          "wins": 3,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 12,
+          "goals_against": 18,
+          "goal_diff": -6,
+          "points": 12
+        },
+        {
+          "rank": 12,
+          "team": "Energie Cottbus",
+          "played": 11,
+          "wins": 2,
+          "draws": 5,
+          "losses": 4,
+          "goals_for": 18,
+          "goals_against": 20,
+          "goal_diff": -2,
+          "points": 11
+        },
+        {
+          "rank": 13,
+          "team": "Braunschweig",
+          "played": 11,
+          "wins": 3,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 16,
+          "goals_against": 18,
+          "goal_diff": -2,
+          "points": 11
+        },
+        {
+          "rank": 14,
+          "team": "VfL 1899 Osnabrück",
+          "played": 11,
+          "wins": 3,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 14,
+          "goals_against": 18,
+          "goal_diff": -4,
+          "points": 11
+        },
+        {
+          "rank": 15,
+          "team": "SG Dynamo Dresden",
+          "played": 11,
+          "wins": 3,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 15,
+          "goals_against": 20,
+          "goal_diff": -5,
+          "points": 11
+        },
+        {
+          "rank": 16,
+          "team": "Karlsruher SC",
+          "played": 11,
+          "wins": 3,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 15,
+          "goals_against": 24,
+          "goal_diff": -9,
+          "points": 11
+        },
+        {
+          "rank": 17,
+          "team": "SV Darmstadt 98",
+          "played": 11,
+          "wins": 2,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 9,
+          "goals_against": 21,
+          "goal_diff": -12,
+          "points": 9
+        },
+        {
+          "rank": 18,
+          "team": "Holstein Kiel",
+          "played": 11,
+          "wins": 1,
+          "draws": 5,
+          "losses": 5,
+          "goals_for": 11,
+          "goals_against": 14,
+          "goal_diff": -3,
+          "points": 8
+        }
+      ]
+    },
+    {
+      "id": "de_3_liga",
+      "country": "Deutschland",
+      "tier": "3. Liga (3. Bundesliga)",
+      "name": "3. Liga",
+      "url": "https://www.livescore.com/de/fussball/deutschland/3-liga/",
+      "standings_url": "https://www.livescore.com/de/fussball/deutschland/3-liga/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "FC Würzburger Kickers",
+          "score": "0:1",
+          "away": "TSG 1899 Hoffenheim II"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "VfB Stuttgart II",
+          "score": "1:0",
+          "away": "SC Verl"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "SV Meppen 1912",
+          "score": "2:1",
+          "away": "SSV Jahn Regensburg"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "20.11.2026",
+          "time_mez": "19:00",
+          "home": "TSV Havelse",
+          "away": "FC Viktoria Köln"
+        }
+      ],
+      "top_scorers": [],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "FC Viktoria Köln",
+          "played": 13,
+          "wins": 9,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 36,
+          "goals_against": 18,
+          "goal_diff": 18,
+          "points": 29
+        },
+        {
+          "rank": 2,
+          "team": "MSV Duisburg",
+          "played": 13,
+          "wins": 9,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 33,
+          "goals_against": 18,
+          "goal_diff": 15,
+          "points": 29
+        },
+        {
+          "rank": 3,
+          "team": "RW Essen",
+          "played": 13,
+          "wins": 8,
+          "draws": 3,
+          "losses": 2,
+          "goals_for": 21,
+          "goals_against": 13,
+          "goal_diff": 8,
+          "points": 27
+        },
+        {
+          "rank": 4,
+          "team": "SV Wehen Wiesbaden",
+          "played": 13,
+          "wins": 6,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 26,
+          "goals_against": 17,
+          "goal_diff": 9,
+          "points": 21
+        },
+        {
+          "rank": 5,
+          "team": "FC Ingolstadt",
+          "played": 13,
+          "wins": 6,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 19,
+          "goals_against": 19,
+          "goal_diff": 0,
+          "points": 21
+        },
+        {
+          "rank": 6,
+          "team": "1. FC Saarbrücken",
+          "played": 13,
+          "wins": 6,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 31,
+          "goals_against": 26,
+          "goal_diff": 5,
+          "points": 20
+        },
+        {
+          "rank": 7,
+          "team": "Alemannia Aachen",
+          "played": 13,
+          "wins": 6,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 19,
+          "goals_against": 19,
+          "goal_diff": 0,
+          "points": 20
+        },
+        {
+          "rank": 8,
+          "team": "SV Waldhof Mannheim 07",
+          "played": 13,
+          "wins": 6,
+          "draws": 1,
+          "losses": 6,
+          "goals_for": 23,
+          "goals_against": 20,
+          "goal_diff": 3,
+          "points": 19
+        },
+        {
+          "rank": 9,
+          "team": "TSG 1899 Hoffenheim II",
+          "played": 13,
+          "wins": 6,
+          "draws": 1,
+          "losses": 6,
+          "goals_for": 22,
+          "goals_against": 20,
+          "goal_diff": 2,
+          "points": 19
+        },
+        {
+          "rank": 10,
+          "team": "FC Hansa Rostock",
+          "played": 13,
+          "wins": 5,
+          "draws": 4,
+          "losses": 4,
+          "goals_for": 22,
+          "goals_against": 22,
+          "goal_diff": 0,
+          "points": 19
+        },
+        {
+          "rank": 11,
+          "team": "SV Meppen 1912",
+          "played": 13,
+          "wins": 5,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 18,
+          "goals_against": 18,
+          "goal_diff": 0,
+          "points": 18
+        },
+        {
+          "rank": 12,
+          "team": "VfB Stuttgart II",
+          "played": 13,
+          "wins": 5,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 22,
+          "goals_against": 23,
+          "goal_diff": -1,
+          "points": 18
+        },
+        {
+          "rank": 13,
+          "team": "Fortuna Düsseldorf",
+          "played": 13,
+          "wins": 4,
+          "draws": 4,
+          "losses": 5,
+          "goals_for": 14,
+          "goals_against": 17,
+          "goal_diff": -3,
+          "points": 16
+        },
+        {
+          "rank": 14,
+          "team": "SC Preußen 06 Münster",
+          "played": 13,
+          "wins": 4,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 21,
+          "goals_against": 25,
+          "goal_diff": -4,
+          "points": 15
+        },
+        {
+          "rank": 15,
+          "team": "FC Würzburger Kickers",
+          "played": 13,
+          "wins": 4,
+          "draws": 2,
+          "losses": 7,
+          "goals_for": 17,
+          "goals_against": 25,
+          "goal_diff": -8,
+          "points": 14
+        },
+        {
+          "rank": 16,
+          "team": "SSV Jahn Regensburg",
+          "played": 13,
+          "wins": 3,
+          "draws": 4,
+          "losses": 6,
+          "goals_for": 23,
+          "goals_against": 23,
+          "goal_diff": 0,
+          "points": 13
+        },
+        {
+          "rank": 17,
+          "team": "SC Verl",
+          "played": 13,
+          "wins": 3,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 17,
+          "goals_against": 27,
+          "goal_diff": -10,
+          "points": 12
+        },
+        {
+          "rank": 18,
+          "team": "SG Sonnenhof Großaspach",
+          "played": 13,
+          "wins": 3,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 13,
+          "goals_against": 29,
+          "goal_diff": -16,
+          "points": 12
+        },
+        {
+          "rank": 19,
+          "team": "SC Fortuna Köln",
+          "played": 13,
+          "wins": 2,
+          "draws": 4,
+          "losses": 7,
+          "goals_for": 10,
+          "goals_against": 16,
+          "goal_diff": -6,
+          "points": 10
+        },
+        {
+          "rank": 20,
+          "team": "TSV Havelse",
+          "played": 13,
+          "wins": 2,
+          "draws": 4,
+          "losses": 7,
+          "goals_for": 17,
+          "goals_against": 29,
+          "goal_diff": -12,
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "en_1_premier_league",
+      "country": "England",
+      "tier": "1. Liga",
+      "name": "Premier League",
+      "url": "https://www.livescore.com/de/fussball/england/premier-league/",
+      "standings_url": "https://www.livescore.com/de/fussball/england/premier-league/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Manchester United",
+          "score": "4:4",
+          "away": "Aston Villa"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Brighton & Hove Albion",
+          "score": "2:0",
+          "away": "Brentford FC"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Crystal Palace",
+          "score": "1:3",
+          "away": "Liverpool FC"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "FC Sunderland",
+          "score": "1:0",
+          "away": "Chelsea FC"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Ipswich",
+          "score": "1:2",
+          "away": "AFC Bournemouth"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "21.11.2026",
+          "time_mez": "13:30",
+          "home": "Manchester City",
+          "away": "FC Fulham"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "AFC Bournemouth",
+          "away": "Nottingham Forest"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Aston Villa",
+          "away": "FC Sunderland"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Chelsea FC",
+          "away": "Leeds"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Coventry",
+          "away": "Crystal Palace"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Tottenham",
+          "away": "Ipswich"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "18:30",
+          "home": "Newcastle United",
+          "away": "Arsenal FC"
+        }
+      ],
+      "top_scorers": [
+        {
+          "rank": 1,
+          "player": "E. Haaland",
+          "team": "Manchester City",
+          "goals": 9,
+          "xg": 7.0
+        },
+        {
+          "rank": 2,
+          "player": "A. Isak",
+          "team": "Liverpool FC",
+          "goals": 7,
+          "xg": 4.9
+        },
+        {
+          "rank": 3,
+          "player": "N. Jackson",
+          "team": "Aston Villa",
+          "goals": 6,
+          "xg": 3.6
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Arsenal FC",
+          "played": 10,
+          "wins": 9,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 15,
+          "goals_against": 5,
+          "goal_diff": 10,
+          "points": 27
+        },
+        {
+          "rank": 2,
+          "team": "Brighton & Hove Albion",
+          "played": 10,
+          "wins": 7,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 26,
+          "goals_against": 7,
+          "goal_diff": 19,
+          "points": 22
+        },
+        {
+          "rank": 3,
+          "team": "Manchester City",
+          "played": 10,
+          "wins": 7,
+          "draws": 0,
+          "losses": 3,
+          "goals_for": 21,
+          "goals_against": 13,
+          "goal_diff": 8,
+          "points": 21
+        },
+        {
+          "rank": 4,
+          "team": "Liverpool FC",
+          "played": 10,
+          "wins": 5,
+          "draws": 3,
+          "losses": 2,
+          "goals_for": 14,
+          "goals_against": 10,
+          "goal_diff": 4,
+          "points": 18
+        },
+        {
+          "rank": 5,
+          "team": "Chelsea FC",
+          "played": 10,
+          "wins": 5,
+          "draws": 1,
+          "losses": 4,
+          "goals_for": 19,
+          "goals_against": 16,
+          "goal_diff": 3,
+          "points": 16
+        },
+        {
+          "rank": 6,
+          "team": "Everton FC",
+          "played": 10,
+          "wins": 4,
+          "draws": 4,
+          "losses": 2,
+          "goals_for": 12,
+          "goals_against": 10,
+          "goal_diff": 2,
+          "points": 16
+        },
+        {
+          "rank": 7,
+          "team": "AFC Bournemouth",
+          "played": 10,
+          "wins": 4,
+          "draws": 3,
+          "losses": 3,
+          "goals_for": 16,
+          "goals_against": 14,
+          "goal_diff": 2,
+          "points": 15
+        },
+        {
+          "rank": 8,
+          "team": "Brentford FC",
+          "played": 10,
+          "wins": 3,
+          "draws": 5,
+          "losses": 2,
+          "goals_for": 16,
+          "goals_against": 11,
+          "goal_diff": 5,
+          "points": 14
+        },
+        {
+          "rank": 9,
+          "team": "Leeds",
+          "played": 10,
+          "wins": 3,
+          "draws": 5,
+          "losses": 2,
+          "goals_for": 10,
+          "goals_against": 8,
+          "goal_diff": 2,
+          "points": 14
+        },
+        {
+          "rank": 10,
+          "team": "Aston Villa",
+          "played": 10,
+          "wins": 3,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 14,
+          "goals_against": 17,
+          "goal_diff": -3,
+          "points": 13
+        },
+        {
+          "rank": 11,
+          "team": "Tottenham",
+          "played": 10,
+          "wins": 3,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 10,
+          "goals_against": 11,
+          "goal_diff": -1,
+          "points": 12
+        },
+        {
+          "rank": 12,
+          "team": "Newcastle United",
+          "played": 10,
+          "wins": 3,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 13,
+          "goals_against": 16,
+          "goal_diff": -3,
+          "points": 12
+        },
+        {
+          "rank": 13,
+          "team": "Hull",
+          "played": 10,
+          "wins": 2,
+          "draws": 5,
+          "losses": 3,
+          "goals_for": 11,
+          "goals_against": 11,
+          "goal_diff": 0,
+          "points": 11
+        },
+        {
+          "rank": 14,
+          "team": "Ipswich",
+          "played": 10,
+          "wins": 3,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 15,
+          "goals_against": 20,
+          "goal_diff": -5,
+          "points": 11
+        },
+        {
+          "rank": 15,
+          "team": "FC Fulham",
+          "played": 10,
+          "wins": 2,
+          "draws": 4,
+          "losses": 4,
+          "goals_for": 10,
+          "goals_against": 12,
+          "goal_diff": -2,
+          "points": 10
+        },
+        {
+          "rank": 16,
+          "team": "Nottingham Forest",
+          "played": 10,
+          "wins": 2,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 9,
+          "goals_against": 13,
+          "goal_diff": -4,
+          "points": 9
+        },
+        {
+          "rank": 17,
+          "team": "Coventry",
+          "played": 10,
+          "wins": 3,
+          "draws": 0,
+          "losses": 7,
+          "goals_for": 10,
+          "goals_against": 19,
+          "goal_diff": -9,
+          "points": 9
+        },
+        {
+          "rank": 18,
+          "team": "Manchester United",
+          "played": 10,
+          "wins": 1,
+          "draws": 5,
+          "losses": 4,
+          "goals_for": 14,
+          "goals_against": 19,
+          "goal_diff": -5,
+          "points": 8
+        },
+        {
+          "rank": 19,
+          "team": "FC Sunderland",
+          "played": 10,
+          "wins": 2,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 8,
+          "goals_against": 17,
+          "goal_diff": -9,
+          "points": 8
+        },
+        {
+          "rank": 20,
+          "team": "Crystal Palace",
+          "played": 10,
+          "wins": 2,
+          "draws": 1,
+          "losses": 7,
+          "goals_for": 10,
+          "goals_against": 24,
+          "goal_diff": -14,
+          "points": 7
+        }
+      ]
+    },
+    {
+      "id": "en_2_championship",
+      "country": "England",
+      "tier": "2. Liga",
+      "name": "Championship (Meisterschaft)",
+      "url": "https://www.livescore.com/de/fussball/england/championship/",
+      "standings_url": "https://www.livescore.com/de/fussball/england/championship/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Birmingham",
+          "score": "2:1",
+          "away": "Swansea"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Blackburn",
+          "score": "2:1",
+          "away": "West Ham"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Cardiff",
+          "score": "5:4",
+          "away": "Burnley FC"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Charlton",
+          "score": "2:1",
+          "away": "Sheffield United"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Preston",
+          "score": "1:0",
+          "away": "Southampton FC"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Queens Park Rangers",
+          "score": "2:1",
+          "away": "Lincoln City"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Watford FC",
+          "score": "0:0",
+          "away": "FC Middlesbrough"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "West Bromwich Albion",
+          "score": "3:0",
+          "away": "Millwall FC"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Bristol City",
+          "score": "0:5",
+          "away": "Norwich"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Portsmouth FC",
+          "score": "1:2",
+          "away": "Stoke"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Wrexham AFC",
+          "score": "1:1",
+          "away": "Wolverhampton Wanderers"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "21.11.2026",
+          "time_mez": "13:30",
+          "home": "Millwall FC",
+          "away": "Queens Park Rangers"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "13:30",
+          "home": "Norwich",
+          "away": "Cardiff"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "13:30",
+          "home": "Southampton FC",
+          "away": "Derby"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Bolton",
+          "away": "Portsmouth FC"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "FC Middlesbrough",
+          "away": "Bristol City"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Lincoln City",
+          "away": "Wrexham AFC"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Sheffield United",
+          "away": "Watford FC"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Stoke",
+          "away": "Birmingham"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Swansea",
+          "away": "West Bromwich Albion"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "West Ham",
+          "away": "Preston"
+        },
+        {
+          "date": "21.11.2026",
+          "time_mez": "16:00",
+          "home": "Wolverhampton Wanderers",
+          "away": "Charlton"
+        }
+      ],
+      "top_scorers": [
+        {
+          "rank": 1,
+          "player": "W. Lankshear",
+          "team": "FC Middlesbrough",
+          "goals": 13,
+          "xg": 10.2
+        },
+        {
+          "rank": 2,
+          "player": "A. Gudjohnsen",
+          "team": "Blackburn",
+          "goals": 10,
+          "xg": 4.1
+        },
+        {
+          "rank": 3,
+          "player": "J. Moylan",
+          "team": "Cardiff",
+          "goals": 10,
+          "xg": 7.4
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Birmingham",
+          "played": 15,
+          "wins": 8,
+          "draws": 5,
+          "losses": 2,
+          "goals_for": 28,
+          "goals_against": 14,
+          "goal_diff": 14,
+          "points": 29
+        },
+        {
+          "rank": 2,
+          "team": "FC Middlesbrough",
+          "played": 15,
+          "wins": 8,
+          "draws": 5,
+          "losses": 2,
+          "goals_for": 30,
+          "goals_against": 19,
+          "goal_diff": 11,
+          "points": 29
+        },
+        {
+          "rank": 3,
+          "team": "Stoke",
+          "played": 15,
+          "wins": 9,
+          "draws": 2,
+          "losses": 4,
+          "goals_for": 24,
+          "goals_against": 18,
+          "goal_diff": 6,
+          "points": 29
+        },
+        {
+          "rank": 4,
+          "team": "Wolverhampton Wanderers",
+          "played": 15,
+          "wins": 8,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 26,
+          "goals_against": 18,
+          "goal_diff": 8,
+          "points": 28
+        },
+        {
+          "rank": 5,
+          "team": "West Bromwich Albion",
+          "played": 15,
+          "wins": 8,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 23,
+          "goals_against": 15,
+          "goal_diff": 8,
+          "points": 28
+        },
+        {
+          "rank": 6,
+          "team": "Swansea",
+          "played": 15,
+          "wins": 8,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 22,
+          "goals_against": 18,
+          "goal_diff": 4,
+          "points": 26
+        },
+        {
+          "rank": 7,
+          "team": "Southampton FC",
+          "played": 15,
+          "wins": 8,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 29,
+          "goals_against": 15,
+          "goal_diff": 14,
+          "points": 24,
+          "point_deduction": -4
+        },
+        {
+          "rank": 8,
+          "team": "Queens Park Rangers",
+          "played": 15,
+          "wins": 6,
+          "draws": 6,
+          "losses": 3,
+          "goals_for": 24,
+          "goals_against": 18,
+          "goal_diff": 6,
+          "points": 24
+        },
+        {
+          "rank": 9,
+          "team": "West Ham",
+          "played": 15,
+          "wins": 6,
+          "draws": 5,
+          "losses": 4,
+          "goals_for": 37,
+          "goals_against": 23,
+          "goal_diff": 14,
+          "points": 23
+        },
+        {
+          "rank": 10,
+          "team": "Sheffield United",
+          "played": 15,
+          "wins": 6,
+          "draws": 4,
+          "losses": 5,
+          "goals_for": 21,
+          "goals_against": 19,
+          "goal_diff": 2,
+          "points": 22
+        },
+        {
+          "rank": 11,
+          "team": "Portsmouth FC",
+          "played": 15,
+          "wins": 6,
+          "draws": 4,
+          "losses": 5,
+          "goals_for": 20,
+          "goals_against": 18,
+          "goal_diff": 2,
+          "points": 22
+        },
+        {
+          "rank": 12,
+          "team": "Norwich",
+          "played": 15,
+          "wins": 7,
+          "draws": 0,
+          "losses": 8,
+          "goals_for": 32,
+          "goals_against": 24,
+          "goal_diff": 8,
+          "points": 21
+        },
+        {
+          "rank": 13,
+          "team": "Blackburn",
+          "played": 15,
+          "wins": 6,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 22,
+          "goals_against": 23,
+          "goal_diff": -1,
+          "points": 21
+        },
+        {
+          "rank": 14,
+          "team": "Cardiff",
+          "played": 15,
+          "wins": 4,
+          "draws": 6,
+          "losses": 5,
+          "goals_for": 27,
+          "goals_against": 27,
+          "goal_diff": 0,
+          "points": 18
+        },
+        {
+          "rank": 15,
+          "team": "Wrexham AFC",
+          "played": 15,
+          "wins": 4,
+          "draws": 6,
+          "losses": 5,
+          "goals_for": 18,
+          "goals_against": 20,
+          "goal_diff": -2,
+          "points": 18
+        },
+        {
+          "rank": 16,
+          "team": "Millwall FC",
+          "played": 15,
+          "wins": 5,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 23,
+          "goals_against": 27,
+          "goal_diff": -4,
+          "points": 18
+        },
+        {
+          "rank": 17,
+          "team": "Bristol City",
+          "played": 15,
+          "wins": 5,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 16,
+          "goals_against": 24,
+          "goal_diff": -8,
+          "points": 18
+        },
+        {
+          "rank": 18,
+          "team": "Bolton",
+          "played": 15,
+          "wins": 5,
+          "draws": 2,
+          "losses": 8,
+          "goals_for": 20,
+          "goals_against": 29,
+          "goal_diff": -9,
+          "points": 17
+        },
+        {
+          "rank": 19,
+          "team": "Charlton",
+          "played": 15,
+          "wins": 4,
+          "draws": 5,
+          "losses": 6,
+          "goals_for": 13,
+          "goals_against": 23,
+          "goal_diff": -10,
+          "points": 17
+        },
+        {
+          "rank": 20,
+          "team": "Watford FC",
+          "played": 15,
+          "wins": 4,
+          "draws": 3,
+          "losses": 8,
+          "goals_for": 13,
+          "goals_against": 23,
+          "goal_diff": -10,
+          "points": 15
+        },
+        {
+          "rank": 21,
+          "team": "Lincoln City",
+          "played": 15,
+          "wins": 4,
+          "draws": 3,
+          "losses": 8,
+          "goals_for": 15,
+          "goals_against": 26,
+          "goal_diff": -11,
+          "points": 15
+        },
+        {
+          "rank": 22,
+          "team": "Burnley FC",
+          "played": 15,
+          "wins": 1,
+          "draws": 7,
+          "losses": 7,
+          "goals_for": 22,
+          "goals_against": 31,
+          "goal_diff": -9,
+          "points": 10
+        },
+        {
+          "rank": 23,
+          "team": "Derby",
+          "played": 15,
+          "wins": 2,
+          "draws": 4,
+          "losses": 9,
+          "goals_for": 14,
+          "goals_against": 30,
+          "goal_diff": -16,
+          "points": 10
+        },
+        {
+          "rank": 24,
+          "team": "Preston",
+          "played": 15,
+          "wins": 2,
+          "draws": 2,
+          "losses": 11,
+          "goals_for": 13,
+          "goals_against": 30,
+          "goal_diff": -17,
+          "points": 8
+        }
+      ]
+    },
+    {
+      "id": "es_1_laliga",
+      "country": "Spanien",
+      "tier": "1. Liga",
+      "name": "LaLiga",
+      "url": "https://www.livescore.com/de/fussball/spanien/laliga/",
+      "standings_url": "https://www.livescore.com/de/fussball/spanien/laliga/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Atlético Madrid",
+          "score": "1:2",
+          "away": "FC Barcelona"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "RC Celta de Vigo",
+          "score": "0:0",
+          "away": "Levante UD"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Villarreal CF",
+          "score": "2:0",
+          "away": "Getafe CF"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Real Sociedad",
+          "score": "1:0",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Elche CF",
+          "score": "0:2",
+          "away": "Real Betis Balompie"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "20.11.2026",
+          "time_mez": "21:00",
+          "home": "Athletic Bilbao",
+          "away": "RCD Espanyol Barcelona"
+        }
+      ],
+      "top_scorers": [
+        {
+          "rank": 1,
+          "player": "Raphinha",
+          "team": "FC Barcelona",
+          "goals": 15,
+          "xg": 11.2
+        },
+        {
+          "rank": 2,
+          "player": "K. Mbappé",
+          "team": "Real Madrid",
+          "goals": 13,
+          "xg": 14.6
+        },
+        {
+          "rank": 3,
+          "player": "L. Yamal",
+          "team": "FC Barcelona",
+          "goals": 10,
+          "xg": 8.0
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "FC Barcelona",
+          "played": 12,
+          "wins": 11,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 48,
+          "goals_against": 13,
+          "goal_diff": 35,
+          "points": 33
+        },
+        {
+          "rank": 2,
+          "team": "Real Madrid",
+          "played": 12,
+          "wins": 10,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 31,
+          "goals_against": 10,
+          "goal_diff": 21,
+          "points": 30
+        },
+        {
+          "rank": 3,
+          "team": "Atlético Madrid",
+          "played": 12,
+          "wins": 9,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 23,
+          "goals_against": 10,
+          "goal_diff": 13,
+          "points": 28
+        },
+        {
+          "rank": 4,
+          "team": "Real Betis Balompie",
+          "played": 12,
+          "wins": 8,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 20,
+          "goals_against": 15,
+          "goal_diff": 5,
+          "points": 26
+        },
+        {
+          "rank": 5,
+          "team": "Real Sociedad",
+          "played": 12,
+          "wins": 7,
+          "draws": 1,
+          "losses": 4,
+          "goals_for": 21,
+          "goals_against": 20,
+          "goal_diff": 1,
+          "points": 22
+        },
+        {
+          "rank": 6,
+          "team": "Sevilla FC",
+          "played": 12,
+          "wins": 5,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 17,
+          "goals_against": 19,
+          "goal_diff": -2,
+          "points": 18
+        },
+        {
+          "rank": 7,
+          "team": "Athletic Bilbao",
+          "played": 11,
+          "wins": 4,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 11,
+          "goal_diff": 4,
+          "points": 16
+        },
+        {
+          "rank": 8,
+          "team": "Villarreal CF",
+          "played": 12,
+          "wins": 4,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 17,
+          "goals_against": 15,
+          "goal_diff": 2,
+          "points": 15
+        },
+        {
+          "rank": 9,
+          "team": "RC Deportivo La Coruna",
+          "played": 12,
+          "wins": 3,
+          "draws": 6,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 14,
+          "goal_diff": 1,
+          "points": 15
+        },
+        {
+          "rank": 10,
+          "team": "Racing Santander",
+          "played": 12,
+          "wins": 4,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 17,
+          "goals_against": 30,
+          "goal_diff": -13,
+          "points": 14
+        },
+        {
+          "rank": 11,
+          "team": "RC Celta de Vigo",
+          "played": 12,
+          "wins": 2,
+          "draws": 7,
+          "losses": 3,
+          "goals_for": 10,
+          "goals_against": 10,
+          "goal_diff": 0,
+          "points": 13
+        },
+        {
+          "rank": 12,
+          "team": "Deportivo Alaves",
+          "played": 12,
+          "wins": 3,
+          "draws": 4,
+          "losses": 5,
+          "goals_for": 15,
+          "goals_against": 17,
+          "goal_diff": -2,
+          "points": 13
+        },
+        {
+          "rank": 13,
+          "team": "RCD Espanyol Barcelona",
+          "played": 12,
+          "wins": 3,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 13,
+          "goals_against": 14,
+          "goal_diff": -1,
+          "points": 12
+        },
+        {
+          "rank": 14,
+          "team": "Rayo Vallecano",
+          "played": 11,
+          "wins": 3,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 15,
+          "goals_against": 21,
+          "goal_diff": -6,
+          "points": 12
+        },
+        {
+          "rank": 15,
+          "team": "Getafe CF",
+          "played": 12,
+          "wins": 3,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 8,
+          "goals_against": 18,
+          "goal_diff": -10,
+          "points": 12
+        },
+        {
+          "rank": 16,
+          "team": "CA Osasuna",
+          "played": 12,
+          "wins": 3,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 12,
+          "goals_against": 23,
+          "goal_diff": -11,
+          "points": 12
+        },
+        {
+          "rank": 17,
+          "team": "Levante UD",
+          "played": 12,
+          "wins": 2,
+          "draws": 5,
+          "losses": 5,
+          "goals_for": 16,
+          "goals_against": 21,
+          "goal_diff": -5,
+          "points": 11
+        },
+        {
+          "rank": 18,
+          "team": "Elche CF",
+          "played": 12,
+          "wins": 2,
+          "draws": 4,
+          "losses": 6,
+          "goals_for": 14,
+          "goals_against": 20,
+          "goal_diff": -6,
+          "points": 10
+        },
+        {
+          "rank": 19,
+          "team": "Valencia CF",
+          "played": 12,
+          "wins": 2,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 8,
+          "goals_against": 20,
+          "goal_diff": -12,
+          "points": 9
+        },
+        {
+          "rank": 20,
+          "team": "FC Malaga",
+          "played": 12,
+          "wins": 0,
+          "draws": 5,
+          "losses": 7,
+          "goals_for": 9,
+          "goals_against": 23,
+          "goal_diff": -14,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "id": "es_2_laliga_2",
+      "country": "Spanien",
+      "tier": "2. Liga",
+      "name": "LaLiga 2",
+      "url": "https://www.livescore.com/de/fussball/spanien/laliga-2/",
+      "standings_url": "https://www.livescore.com/de/fussball/spanien/laliga-2/standings/",
+      "today_matches": [
+        {
+          "date": "09.11.2026",
+          "time_mez": "20:30",
+          "status": "NS (Heute)",
+          "round": "13. Spieltag",
+          "home": "CE Sabadell FC",
+          "away": "Real Sociedad B"
+        },
+        {
+          "date": "09.11.2026",
+          "time_mez": "20:30",
+          "status": "NS (Heute)",
+          "round": "13. Spieltag",
+          "home": "UD Las Palmas",
+          "away": "Club Deportivo Eldense"
+        }
+      ],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Sporting Gijon",
+          "score": "1:2",
+          "away": "Real Valladolid"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "FC Girona",
+          "score": "0:1",
+          "away": "UD Almeria"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "09.11.2026",
+          "time_mez": "20:30",
+          "home": "CE Sabadell FC",
+          "away": "Real Sociedad B"
+        },
+        {
+          "date": "09.11.2026",
+          "time_mez": "20:30",
+          "home": "UD Las Palmas",
+          "away": "Club Deportivo Eldense"
+        }
+      ],
+      "top_scorers": [],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "UD Almeria",
+          "played": 13,
+          "wins": 9,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 24,
+          "goals_against": 10,
+          "goal_diff": 14,
+          "points": 29
+        },
+        {
+          "rank": 2,
+          "team": "CD Castellon",
+          "played": 12,
+          "wins": 8,
+          "draws": 3,
+          "losses": 1,
+          "goals_for": 23,
+          "goals_against": 5,
+          "goal_diff": 18,
+          "points": 27
+        },
+        {
+          "rank": 3,
+          "team": "Burgos CF",
+          "played": 13,
+          "wins": 7,
+          "draws": 3,
+          "losses": 3,
+          "goals_for": 19,
+          "goals_against": 14,
+          "goal_diff": 5,
+          "points": 24
+        },
+        {
+          "rank": 4,
+          "team": "SD Eibar",
+          "played": 12,
+          "wins": 7,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 21,
+          "goals_against": 14,
+          "goal_diff": 7,
+          "points": 23
+        },
+        {
+          "rank": 5,
+          "team": "Granada CF",
+          "played": 12,
+          "wins": 7,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 20,
+          "goals_against": 14,
+          "goal_diff": 6,
+          "points": 23
+        },
+        {
+          "rank": 6,
+          "team": "RCD Mallorca",
+          "played": 12,
+          "wins": 6,
+          "draws": 4,
+          "losses": 2,
+          "goals_for": 15,
+          "goals_against": 7,
+          "goal_diff": 8,
+          "points": 22
+        },
+        {
+          "rank": 7,
+          "team": "Sporting Gijon",
+          "played": 13,
+          "wins": 7,
+          "draws": 1,
+          "losses": 5,
+          "goals_for": 14,
+          "goals_against": 15,
+          "goal_diff": -1,
+          "points": 22
+        },
+        {
+          "rank": 8,
+          "team": "FC Girona",
+          "played": 13,
+          "wins": 6,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 22,
+          "goals_against": 12,
+          "goal_diff": 10,
+          "points": 21
+        },
+        {
+          "rank": 9,
+          "team": "Real Oviedo",
+          "played": 13,
+          "wins": 6,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 19,
+          "goals_against": 16,
+          "goal_diff": 3,
+          "points": 21
+        },
+        {
+          "rank": 10,
+          "team": "Cordoba CF",
+          "played": 13,
+          "wins": 6,
+          "draws": 1,
+          "losses": 6,
+          "goals_for": 22,
+          "goals_against": 22,
+          "goal_diff": 0,
+          "points": 19
+        },
+        {
+          "rank": 11,
+          "team": "Real Valladolid",
+          "played": 13,
+          "wins": 5,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 22,
+          "goals_against": 20,
+          "goal_diff": 2,
+          "points": 18
+        },
+        {
+          "rank": 12,
+          "team": "CE Sabadell FC",
+          "played": 12,
+          "wins": 4,
+          "draws": 5,
+          "losses": 3,
+          "goals_for": 12,
+          "goals_against": 11,
+          "goal_diff": 1,
+          "points": 17
+        },
+        {
+          "rank": 13,
+          "team": "UD Las Palmas",
+          "played": 12,
+          "wins": 5,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 17,
+          "goals_against": 21,
+          "goal_diff": -4,
+          "points": 17
+        },
+        {
+          "rank": 14,
+          "team": "CD Tenerife",
+          "played": 12,
+          "wins": 3,
+          "draws": 6,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 17,
+          "goal_diff": -2,
+          "points": 15
+        },
+        {
+          "rank": 15,
+          "team": "Club Deportivo Eldense",
+          "played": 12,
+          "wins": 4,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 13,
+          "goals_against": 17,
+          "goal_diff": -4,
+          "points": 14
+        },
+        {
+          "rank": 16,
+          "team": "RC Celta Fortuna",
+          "played": 13,
+          "wins": 3,
+          "draws": 4,
+          "losses": 6,
+          "goals_for": 19,
+          "goals_against": 25,
+          "goal_diff": -6,
+          "points": 13
+        },
+        {
+          "rank": 17,
+          "team": "CD Leganés",
+          "played": 13,
+          "wins": 3,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 11,
+          "goals_against": 23,
+          "goal_diff": -12,
+          "points": 12
+        },
+        {
+          "rank": 18,
+          "team": "FC Andorra",
+          "played": 12,
+          "wins": 3,
+          "draws": 2,
+          "losses": 7,
+          "goals_for": 17,
+          "goals_against": 22,
+          "goal_diff": -5,
+          "points": 11
+        },
+        {
+          "rank": 19,
+          "team": "Real Sociedad B",
+          "played": 12,
+          "wins": 3,
+          "draws": 2,
+          "losses": 7,
+          "goals_for": 15,
+          "goals_against": 22,
+          "goal_diff": -7,
+          "points": 11
+        },
+        {
+          "rank": 20,
+          "team": "Cadiz CF",
+          "played": 13,
+          "wins": 2,
+          "draws": 4,
+          "losses": 7,
+          "goals_for": 16,
+          "goals_against": 18,
+          "goal_diff": -2,
+          "points": 10
+        },
+        {
+          "rank": 21,
+          "team": "Albacete Balompie",
+          "played": 13,
+          "wins": 3,
+          "draws": 1,
+          "losses": 9,
+          "goals_for": 13,
+          "goals_against": 24,
+          "goal_diff": -11,
+          "points": 10
+        },
+        {
+          "rank": 22,
+          "team": "AD Ceuta",
+          "played": 13,
+          "wins": 1,
+          "draws": 2,
+          "losses": 10,
+          "goals_for": 10,
+          "goals_against": 30,
+          "goal_diff": -20,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "id": "fr_1_ligue_1",
+      "country": "Frankreich",
+      "tier": "1. Liga",
+      "name": "Ligue 1",
+      "url": "https://www.livescore.com/de/fussball/frankreich/ligue-1/",
+      "standings_url": "https://www.livescore.com/de/fussball/frankreich/ligue-1/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "RC Lens",
+          "score": "1:2",
+          "away": "Olympique Marseille"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Angers SCO",
+          "score": "0:2",
+          "away": "OGC Nizza"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Le Havre AC",
+          "score": "0:2",
+          "away": "FC Lorient"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Le Mans FC",
+          "score": "1:1",
+          "away": "AS Monaco"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "Stade Brestois 29",
+          "score": "2:0",
+          "away": "Olympique Lyon"
+        },
+        {
+          "date": "08.11.2026",
+          "status": "Voll.",
+          "home": "FC Stade Rennes",
+          "score": "1:2",
+          "away": "OSC Lille"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:45",
+          "home": "Troyes AC",
+          "away": "Le Havre AC"
+        }
+      ],
+      "top_scorers": [
+        {
+          "rank": 1,
+          "player": "L. Sinayoko",
+          "team": "Paris FC",
+          "goals": 9,
+          "xg": 7.0
+        },
+        {
+          "rank": 2,
+          "player": "A. Gouiri",
+          "team": "Olympique Marseille",
+          "goals": 7,
+          "xg": 5.3
+        },
+        {
+          "rank": 3,
+          "player": "E. Lepaul",
+          "team": "FC Stade Rennes",
+          "goals": 7,
+          "xg": 5.8
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "Paris Saint-Germain",
+          "played": 10,
+          "wins": 7,
+          "draws": 2,
+          "losses": 1,
+          "goals_for": 22,
+          "goals_against": 10,
+          "goal_diff": 12,
+          "points": 23
+        },
+        {
+          "rank": 2,
+          "team": "OSC Lille",
+          "played": 10,
+          "wins": 6,
+          "draws": 3,
+          "losses": 1,
+          "goals_for": 14,
+          "goals_against": 7,
+          "goal_diff": 7,
+          "points": 21
+        },
+        {
+          "rank": 3,
+          "team": "Paris FC",
+          "played": 10,
+          "wins": 6,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 17,
+          "goals_against": 10,
+          "goal_diff": 7,
+          "points": 20
+        },
+        {
+          "rank": 4,
+          "team": "Olympique Marseille",
+          "played": 10,
+          "wins": 6,
+          "draws": 0,
+          "losses": 4,
+          "goals_for": 22,
+          "goals_against": 14,
+          "goal_diff": 8,
+          "points": 18
+        },
+        {
+          "rank": 5,
+          "team": "Olympique Lyon",
+          "played": 10,
+          "wins": 5,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 9,
+          "goal_diff": 6,
+          "points": 17
+        },
+        {
+          "rank": 6,
+          "team": "OGC Nizza",
+          "played": 10,
+          "wins": 5,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 12,
+          "goal_diff": 3,
+          "points": 17
+        },
+        {
+          "rank": 7,
+          "team": "AS Monaco",
+          "played": 10,
+          "wins": 4,
+          "draws": 4,
+          "losses": 2,
+          "goals_for": 13,
+          "goals_against": 11,
+          "goal_diff": 2,
+          "points": 16
+        },
+        {
+          "rank": 8,
+          "team": "FC Stade Rennes",
+          "played": 10,
+          "wins": 5,
+          "draws": 1,
+          "losses": 4,
+          "goals_for": 21,
+          "goals_against": 21,
+          "goal_diff": 0,
+          "points": 16
+        },
+        {
+          "rank": 9,
+          "team": "Stade Brestois 29",
+          "played": 10,
+          "wins": 4,
+          "draws": 3,
+          "losses": 3,
+          "goals_for": 18,
+          "goals_against": 12,
+          "goal_diff": 6,
+          "points": 15
+        },
+        {
+          "rank": 10,
+          "team": "FC Lorient",
+          "played": 10,
+          "wins": 4,
+          "draws": 3,
+          "losses": 3,
+          "goals_for": 9,
+          "goals_against": 8,
+          "goal_diff": 1,
+          "points": 15
+        },
+        {
+          "rank": 11,
+          "team": "RC Lens",
+          "played": 10,
+          "wins": 4,
+          "draws": 1,
+          "losses": 5,
+          "goals_for": 17,
+          "goals_against": 15,
+          "goal_diff": 2,
+          "points": 13
+        },
+        {
+          "rank": 12,
+          "team": "Toulouse FC",
+          "played": 10,
+          "wins": 3,
+          "draws": 4,
+          "losses": 3,
+          "goals_for": 15,
+          "goals_against": 14,
+          "goal_diff": 1,
+          "points": 13
+        },
+        {
+          "rank": 13,
+          "team": "RC Strasbourg Alsace",
+          "played": 10,
+          "wins": 3,
+          "draws": 1,
+          "losses": 6,
+          "goals_for": 18,
+          "goals_against": 22,
+          "goal_diff": -4,
+          "points": 10
+        },
+        {
+          "rank": 14,
+          "team": "AJ Auxerre",
+          "played": 10,
+          "wins": 3,
+          "draws": 1,
+          "losses": 6,
+          "goals_for": 13,
+          "goals_against": 24,
+          "goal_diff": -11,
+          "points": 10
+        },
+        {
+          "rank": 15,
+          "team": "Le Mans FC",
+          "played": 10,
+          "wins": 1,
+          "draws": 5,
+          "losses": 4,
+          "goals_for": 12,
+          "goals_against": 19,
+          "goal_diff": -7,
+          "points": 8
+        },
+        {
+          "rank": 16,
+          "team": "Angers SCO",
+          "played": 10,
+          "wins": 2,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 9,
+          "goals_against": 19,
+          "goal_diff": -10,
+          "points": 8
+        },
+        {
+          "rank": 17,
+          "team": "Troyes AC",
+          "played": 10,
+          "wins": 2,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 7,
+          "goals_against": 17,
+          "goal_diff": -10,
+          "points": 8
+        },
+        {
+          "rank": 18,
+          "team": "Le Havre AC",
+          "played": 10,
+          "wins": 0,
+          "draws": 2,
+          "losses": 8,
+          "goals_for": 9,
+          "goals_against": 22,
+          "goal_diff": -13,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "fr_2_ligue_2",
+      "country": "Frankreich",
+      "tier": "2. Liga",
+      "name": "Ligue 2",
+      "url": "https://www.livescore.com/de/fussball/frankreich/ligue-2/",
+      "standings_url": "https://www.livescore.com/de/fussball/frankreich/ligue-2/standings/",
+      "today_matches": [],
+      "recent_results": [
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "AS Saint-Étienne",
+          "score": "2:0",
+          "away": "Stade Lavallois MFC"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Pau FC",
+          "score": "0:2",
+          "away": "FC Nantes"
+        },
+        {
+          "date": "07.11.2026",
+          "status": "Voll.",
+          "home": "Clermont Foot",
+          "score": "1:0",
+          "away": "Rodez Aveyron"
+        }
+      ],
+      "upcoming_fixtures": [
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:00",
+          "home": "AS Nancy",
+          "away": "Dijon FCO"
+        },
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:00",
+          "home": "Annecy FC",
+          "away": "Clermont Foot"
+        },
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:00",
+          "home": "EA Guingamp",
+          "away": "Rodez Aveyron"
+        },
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:00",
+          "home": "FC Metz",
+          "away": "US Boulogne"
+        },
+        {
+          "date": "20.11.2026",
+          "time_mez": "20:00",
+          "home": "Red Star FC",
+          "away": "Pau FC"
+        }
+      ],
+      "top_scorers": [
+        {
+          "rank": 1,
+          "player": "Y. Fofana",
+          "team": "Stade Reims",
+          "goals": 11,
+          "xg": null
+        },
+        {
+          "rank": 2,
+          "player": "P. Fall",
+          "team": "FC Metz",
+          "goals": 8,
+          "xg": null
+        },
+        {
+          "rank": 3,
+          "player": "A. Boakye",
+          "team": "AS Saint-Étienne",
+          "goals": 6,
+          "xg": null
+        }
+      ],
+      "standings": [
+        {
+          "rank": 1,
+          "team": "AS Saint-Étienne",
+          "played": 12,
+          "wins": 9,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 25,
+          "goals_against": 11,
+          "goal_diff": 14,
+          "points": 28
+        },
+        {
+          "rank": 2,
+          "team": "AS Nancy",
+          "played": 12,
+          "wins": 8,
+          "draws": 1,
+          "losses": 3,
+          "goals_for": 17,
+          "goals_against": 9,
+          "goal_diff": 8,
+          "points": 25
+        },
+        {
+          "rank": 3,
+          "team": "Montpellier HSC",
+          "played": 12,
+          "wins": 7,
+          "draws": 3,
+          "losses": 2,
+          "goals_for": 18,
+          "goals_against": 9,
+          "goal_diff": 9,
+          "points": 24
+        },
+        {
+          "rank": 4,
+          "team": "Stade Reims",
+          "played": 12,
+          "wins": 5,
+          "draws": 6,
+          "losses": 1,
+          "goals_for": 24,
+          "goals_against": 15,
+          "goal_diff": 9,
+          "points": 21
+        },
+        {
+          "rank": 5,
+          "team": "Pau FC",
+          "played": 12,
+          "wins": 6,
+          "draws": 2,
+          "losses": 4,
+          "goals_for": 16,
+          "goals_against": 13,
+          "goal_diff": 3,
+          "points": 20
+        },
+        {
+          "rank": 6,
+          "team": "Dijon FCO",
+          "played": 12,
+          "wins": 5,
+          "draws": 3,
+          "losses": 4,
+          "goals_for": 21,
+          "goals_against": 19,
+          "goal_diff": 2,
+          "points": 18
+        },
+        {
+          "rank": 7,
+          "team": "FC Metz",
+          "played": 12,
+          "wins": 4,
+          "draws": 5,
+          "losses": 3,
+          "goals_for": 20,
+          "goals_against": 19,
+          "goal_diff": 1,
+          "points": 17
+        },
+        {
+          "rank": 8,
+          "team": "Red Star FC",
+          "played": 12,
+          "wins": 5,
+          "draws": 2,
+          "losses": 5,
+          "goals_for": 14,
+          "goals_against": 17,
+          "goal_diff": -3,
+          "points": 17
+        },
+        {
+          "rank": 9,
+          "team": "Annecy FC",
+          "played": 12,
+          "wins": 5,
+          "draws": 1,
+          "losses": 6,
+          "goals_for": 14,
+          "goals_against": 18,
+          "goal_diff": -4,
+          "points": 16
+        },
+        {
+          "rank": 10,
+          "team": "USL Dunkerque",
+          "played": 12,
+          "wins": 4,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 17,
+          "goals_against": 17,
+          "goal_diff": 0,
+          "points": 15
+        },
+        {
+          "rank": 11,
+          "team": "EA Guingamp",
+          "played": 12,
+          "wins": 4,
+          "draws": 2,
+          "losses": 6,
+          "goals_for": 16,
+          "goals_against": 18,
+          "goal_diff": -2,
+          "points": 14
+        },
+        {
+          "rank": 12,
+          "team": "US Boulogne",
+          "played": 12,
+          "wins": 2,
+          "draws": 7,
+          "losses": 3,
+          "goals_for": 10,
+          "goals_against": 8,
+          "goal_diff": 2,
+          "points": 13
+        },
+        {
+          "rank": 13,
+          "team": "Rodez Aveyron",
+          "played": 12,
+          "wins": 4,
+          "draws": 1,
+          "losses": 7,
+          "goals_for": 17,
+          "goals_against": 23,
+          "goal_diff": -6,
+          "points": 13
+        },
+        {
+          "rank": 14,
+          "team": "FC Nantes",
+          "played": 12,
+          "wins": 3,
+          "draws": 3,
+          "losses": 6,
+          "goals_for": 14,
+          "goals_against": 18,
+          "goal_diff": -4,
+          "points": 12
+        },
+        {
+          "rank": 15,
+          "team": "Clermont Foot",
+          "played": 12,
+          "wins": 1,
+          "draws": 8,
+          "losses": 3,
+          "goals_for": 11,
+          "goals_against": 15,
+          "goal_diff": -4,
+          "points": 11
+        },
+        {
+          "rank": 16,
+          "team": "FC Sochaux",
+          "played": 12,
+          "wins": 2,
+          "draws": 5,
+          "losses": 5,
+          "goals_for": 8,
+          "goals_against": 15,
+          "goal_diff": -7,
+          "points": 11
+        },
+        {
+          "rank": 17,
+          "team": "Grenoble Foot",
+          "played": 12,
+          "wins": 3,
+          "draws": 2,
+          "losses": 7,
+          "goals_for": 13,
+          "goals_against": 22,
+          "goal_diff": -9,
+          "points": 11
+        },
+        {
+          "rank": 18,
+          "team": "Stade Lavallois MFC",
+          "played": 12,
+          "wins": 2,
+          "draws": 3,
+          "losses": 7,
+          "goals_for": 14,
+          "goals_against": 23,
+          "goal_diff": -9,
+          "points": 9
+        }
+      ]
+    }
+  ]
+}
