@@ -23,3 +23,7 @@ npx skills add D4Vinci/Scrapling --skill scrapling-official
 ```
 
 The CLI will detect the agents you have installed and add the skill to them.
+
+---
+
+Other skills vendored in this directory (currently `last30days/`) are documented in [INSTALLED-SKILLS.md](INSTALLED-SKILLS.md).

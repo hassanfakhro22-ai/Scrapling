@@ -65,6 +65,9 @@ develop-eggs
 .installed.cfg
 lib
 lib64
+# Vendored agent skills carry their own internal lib/ directories (e.g. the
+# last30days engine at agent-skill/last30days/scripts/lib/) - keep them tracked.
+!agent-skill/**/lib/
 venv*/
 .venv*/
 pyvenv*/
